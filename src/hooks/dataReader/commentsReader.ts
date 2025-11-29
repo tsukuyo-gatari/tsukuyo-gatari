@@ -4,6 +4,9 @@ import { getDatabase, onValue, push, ref, child } from "firebase/database";
 import { useEffect, useState } from "react";
 import type { CommentProps } from "../../components/comment/Comment";
 
+console.log("Initialized Firebase with config:");
+console.log(import.meta.env)
+
 const firebaseConfig = {
     apiKey: import.meta.env.VITE_API_KEY,
     authDomain: import.meta.env.VITE_AUTH_DOMAIN,
@@ -18,9 +21,6 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getDatabase(app);
 const auth = getAuth(app);
-
-console.log("Initialized Firebase with config:");
-console.log(import.meta.env)
 
 onAuthStateChanged(auth, (user) => {
     if (!user) {
