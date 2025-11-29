@@ -1,0 +1,247 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/summary/",
+        "traductionsFolderName": "shinzou/"
+    },
+    "summaryData": {
+        "menuOptionsData": [
+            {
+                "to": "shinshou",
+                "text": "Parte 1: Shinshou Roku"
+            },
+            {
+                "to": "tsuisou",
+                "text": "Parte 2: Tsuisou Roku"
+            },
+            {
+                "to": "kaisou",
+                "text": "Parte 3: Kaisou Roku"
+            },
+            {
+                "to": "extra",
+                "text": "Extras"
+            },
+            {
+                "to": "interview",
+                "text": "Entrevista autor"
+            },
+            {
+                "to": "review",
+                "text": "Reseña"
+            },
+            {
+                "to": "comentarios",
+                "text": "Comentarios"
+            }
+        ],
+        "novelTitleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "engTitle": "I want to be your heart",
+            "jpTitle": "誰かの心臓になれたなら",
+            "romajiTitle": "Dareka no Shinzou ni Nareta nara",
+            "esTitle": "Quisiera ser el corazón de alguien",
+            "videoLink": "https://www.youtube.com/watch?v=hZFBTnzKa54"
+        },
+        "summaryFilePath": "shinzou_summary.txt",
+        "traductionDetailsFilePath": "shinzou_traduction_details.txt",
+        "teaserVideoLink": "https://www.youtube.com/embed/jS-Ws3x-39o?si=--aSE4Ayuw-vd51o",
+        "chapterSections": [
+            {
+                "summaryFilePath": "shinshou/shinshou_summary.txt",
+                "chaptersImages": [
+                    "shinshou/1",
+                    "shinshou/2",
+                    "shinshou/3",
+                    "shinshou/4",
+                    "shinshou/5",
+                    "shinshou/6",
+                    "shinshou/7",
+                    "shinshou/8",
+                    "shinshou/9",
+                    "shinshou/10",
+                    "shinshou/11",
+                    "shinshou/12",
+                    "shinshou/13",
+                    "shinshou/14",
+                    "shinshou/15"
+                ],
+                "chaptersVideos": [
+                    "https://www.youtube.com/watch?v=RugdREg69Nc",
+                    "https://www.youtube.com/watch?v=cHcqI40JpXg",
+                    "https://www.youtube.com/watch?v=LFiodJq4lU4",
+                    "https://www.youtube.com/watch?v=d3jvkB_0gVY",
+                    "https://www.youtube.com/watch?v=rSKhmsVi9oo",
+                    "https://www.youtube.com/watch?v=HKsSGYCRGFk",
+                    "https://www.youtube.com/watch?v=Zd25wIFJhIo",
+                    "https://www.youtube.com/watch?v=bLxBGhzqGoQ",
+                    "https://www.youtube.com/watch?v=ndVeUn97Nh0",
+                    "https://www.youtube.com/watch?v=Y_j7gHOgYY4",
+                    "https://www.youtube.com/watch?v=4CVZvOTpLQw",
+                    "https://www.youtube.com/watch?v=oNWHODZ-THc",
+                    "https://www.youtube.com/watch?v=Csp715c4kSU",
+                    "https://www.youtube.com/watch?v=Y_j7gHOgYY4",
+                    "https://www.youtube.com/watch?v=Y_j7gHOgYY4"
+                ],
+                "novelTitle": "Shinshou Roku 心象録",
+                "romajiTitle": "Shinshou Roku",
+                "jpTitle": "心象録",
+                "esTitle": "Imágenes mentales",
+                "sectionId": "shinshou",
+                "chaptersLinks": [
+                    "shinshouRoku/chapter-1/",
+                    "shinshouRoku/chapter-2/",
+                    "shinshouRoku/chapter-3/",
+                    "shinshouRoku/chapter-4/",
+                    "shinshouRoku/chapter-5/",
+                    "shinshouRoku/chapter-6/",
+                    "shinshouRoku/chapter-7/",
+                    "shinshouRoku/chapter-8/",
+                    "shinshouRoku/chapter-9/",
+                    "shinshouRoku/chapter-10/",
+                    "shinshouRoku/chapter-11/",
+                    "shinshouRoku/chapter-12/",
+                    "shinshouRoku/chapter-13/",
+                    "shinshouRoku/chapter-14/",
+                    "shinshouRoku/chapter-15/"
+                ]
+            },
+            {
+                "summaryFilePath": "tsuisou/tsuisou_summary.txt",
+                "chaptersImages": [
+                    "tsuisou/0",
+                    "tsuisou/1",
+                    "tsuisou/2",
+                    "tsuisou/3",
+                    "tsuisou/4",
+                    "tsuisou/5"
+                ],
+                "chaptersVideos": [
+                    "https://www.youtube.com/watch?v=HKsSGYCRGFk",
+                    "https://www.youtube.com/watch?v=oNWHODZ-THc",
+                    "https://www.youtube.com/watch?v=ndVeUn97Nh0",
+                    "https://www.youtube.com/watch?v=1hdtk9RZhHY",
+                    "https://www.youtube.com/watch?v=ndVeUn97Nh0",
+                    "https://www.youtube.com/watch?v=RugdREg69Nc"
+                ],
+                "novelTitle": "Tsuisou Roku 追想録",
+                "romajiTitle": "Tsuisou Roku",
+                "jpTitle": "追想録",
+                "esTitle": "Imágenes retrospectivas",
+                "sectionId": "tsuisou",
+                "chaptersLinks": [
+                    "tsuisouRoku/chapter-0/",
+                    "tsuisouRoku/chapter-1/",
+                    "tsuisouRoku/chapter-2/",
+                    "tsuisouRoku/chapter-3/",
+                    "tsuisouRoku/chapter-4/",
+                    "tsuisouRoku/chapter-5/"
+                ]
+            },
+            {
+                "summaryFilePath": "kaisou/kaisou_summary.txt",
+                "chaptersImages": [
+                    "kaisou/1",
+                    "kaisou/2",
+                    "kaisou/3",
+                    "kaisou/4",
+                    "kaisou/5",
+                    "kaisou/6",
+                    "kaisou/7",
+                    "kaisou/8",
+                    "kaisou/9",
+                    "kaisou/10",
+                    "kaisou/11",
+                    "kaisou/12"
+                ],
+                "chaptersVideos": [
+                    "https://www.youtube.com/watch?v=cHcqI40JpXg",
+                    "https://www.youtube.com/watch?v=HKsSGYCRGFk",
+                    "https://www.youtube.com/watch?v=SrFUh1u2eQg",
+                    "https://www.youtube.com/watch?v=1hdtk9RZhHY",
+                    "https://www.youtube.com/watch?v=HRdjQ24WFE8",
+                    "https://www.youtube.com/watch?v=RugdREg69Nc",
+                    "https://www.youtube.com/watch?v=0yIUeoSLTEs",
+                    "https://www.youtube.com/watch?v=d3jvkB_0gVY",
+                    "https://www.youtube.com/watch?v=cHcqI40JpXg",
+                    "https://www.youtube.com/watch?v=-XbSWEfLuQc",
+                    "https://www.youtube.com/watch?v=2Q9o9kUZXRI",
+                    "https://www.youtube.com/watch?v=hZFBTnzKa54"
+                ],
+                "novelTitle": "Kaisou Roku 廻想録",
+                "romajiTitle": "Kaisou Roku",
+                "jpTitle": "廻想録",
+                "esTitle": "Reminiscencias",
+                "sectionId": "kaisou",
+                "chaptersLinks": [
+                    "kaisouRoku/chapter-1/",
+                    "kaisouRoku/chapter-2/",
+                    "kaisouRoku/chapter-3/",
+                    "kaisouRoku/chapter-4/",
+                    "kaisouRoku/chapter-5/",
+                    "kaisouRoku/chapter-6/",
+                    "kaisouRoku/chapter-7/",
+                    "kaisouRoku/chapter-8/",
+                    "kaisouRoku/chapter-9/",
+                    "kaisouRoku/chapter-10/",
+                    "kaisouRoku/chapter-11/",
+                    "kaisouRoku/chapter-12/"
+                ]
+            },
+            {
+                "summaryFilePath": "extra/extra_summary.txt",
+                "chaptersImages": [
+                    "extra/1",
+                    "extra/2",
+                    "extra/3"
+                ],
+                "chaptersVideos": [
+                    "https://www.youtube.com/watch?v=vzBVlYWPN7Q",
+                    "https://www.youtube.com/watch?v=MlvBKnHhHSc",
+                    "https://www.youtube.com/watch?v=kKCIUMOLIZk"
+                ],
+                "novelTitle": "Extra",
+                "romajiTitle": "Extra",
+                "jpTitle": "",
+                "esTitle": "",
+                "sectionId": "extra",
+                "chaptersLinks": [
+                    "extra/veronica/",
+                    "extra/tetra/",
+                    "extra/ookami/"
+                ]
+            }
+        ],
+        "visualNovelVideoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/L8U4OU5580M?si=AhDAKwNCXBh2fdk",
+                "title": "Memorias: Parte 1"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/8_-86ObPB5Q?si=QeKF1e-Gqvqjc-sL",
+                "title": "Memorias: Parte 2"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/f_ft7MtzQyc?si=yCBkaHQbvGGOGFnH",
+                "title": "Memorias: Parte 3"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/drux1An59E4?si=lb74pw49pcfSPmWE",
+                "title": "I want to be your heart"
+            }
+        ],
+        "interview": {
+            "interviewPath": "shinzou_interview.txt",
+            "backgroundImage": "shinzou/interview_bg"
+        },
+        "review": {
+            "reviewPath": "shinzou_review.txt",
+            "backgroundImage": "shinzou/review_bg"
+        },
+        "commentSection": {
+            "section": "shinzou",
+            "includeSubsections": true,
+            "commentsBG": "shinzou/comment_bg"
+        }
+    }
+}

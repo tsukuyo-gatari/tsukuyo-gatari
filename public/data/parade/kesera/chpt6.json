@@ -1,0 +1,125 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/kesera/chpt6/",
+        "traductionsFolderName": "parade/kesera/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_6.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "ケセラリズム",
+            "romajiTitle": "Kesera Rhythm",
+            "esTitle": "Capítulo 6: Esclavos de la doctrina",
+            "videoLink": "https://www.youtube.com/watch?v=cNvsug-S38Y"
+        },
+        "nextChapterLink": "/parade/todestrieb/chapter-1/",
+        "previousChapterLink": "/parade/kesera/chapter-5/",
+        "listChaptersLink": "/parade/",
+        "commentsSection": {
+            "section": "parade/kesera/chpt6",
+            "commentsBG": "parade/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/cNvsug-S38Y?si=dYfbQUgoO5E9qckv",
+                "title": "Kesera Rhythm",
+                "subtitle": "ケセラリズム"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 11,
+                "opacity": 0.8,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.8,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.8,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.8,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 51,
+                "opacity": 0.8,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 60,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 69,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 80,
+                "opacity": 0.7,
+                "imageSrc": "8"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 3,
+                "opacity": 0.8,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 11,
+                "opacity": 0.8,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.8,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.8,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 35,
+                "opacity": 0.8,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 49,
+                "opacity": 0.8,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 54,
+                "opacity": 0.7,
+                "imageSrc": "10"
+            },
+            {
+                "breakpoint": 60,
+                "opacity": 0.7,
+                "imageSrc": "11"
+            },
+            {
+                "breakpoint": 69,
+                "opacity": 0.7,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 80,
+                "opacity": 0.7,
+                "imageSrc": "8"
+            }
+        ]
+    }
+}

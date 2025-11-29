@@ -1,0 +1,61 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "sorekami/chpt1a/",
+        "traductionsFolderName": "sorekami/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_1-0.4.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "心燃ゆ",
+            "romajiTitle": "Kokoro Moyu",
+            "esTitle": "Capítulo 1-0.4: Corazón ardiente",
+            "videoLink": "https://www.youtube.com/watch?v=vjbTpBPGvBw"
+        },
+        "nextChapterLink": "/sorekami/chapter-2-307",
+        "previousChapterLink": "/sorekami/chapter-1",
+        "listChaptersLink": "/sorekami/",
+        "commentsSection": {
+            "section": "sorekami/chapters/chpt1-04",
+            "commentsBG": "sorekami/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/vjbTpBPGvBw?si=qGUYBODt7XKFRmfo",
+                "title": "Corazón ardiente",
+                "subtitle": "Kokoro Moyu - 心燃ゆ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 13,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 105,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 13,
+                "opacity": 0.7,
+                "imageSrc": "3",
+                "position": "left"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 105,
+                "opacity": 0.7,
+                "imageSrc": "title"
+            }
+        ]
+    }
+}

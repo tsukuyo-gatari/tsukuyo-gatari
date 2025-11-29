@@ -1,0 +1,82 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/kaisou/chpt7/",
+        "traductionsFolderName": "shinzou/kaisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_7.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "廻想録",
+            "romajiTitle": "Kaisou Roku",
+            "esTitle": "Capítulo 7: Gotas de Lluvia",
+            "videoLink": "https://www.youtube.com/watch?v=0yIUeoSLTEs"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "nextChapterLink": "/shinzou/kaisouRoku/chapter-8/",
+        "previousChapterLink": "/shinzou/kaisouRoku/chapter-6/",
+        "commentsSection": {
+            "section": "shinzou/kaisou/chpt7",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/0yIUeoSLTEs?si=GgnFRN0AQaisbvkP",
+                "title": "Noisy Rainy",
+                "subtitle": "アメイセンソウ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 11,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 24,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 4,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 7,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 11,
+                "opacity": 0.6,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 15,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 17,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "8"
+            }
+        ]
+    }
+}

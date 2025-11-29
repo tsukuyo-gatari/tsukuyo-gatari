@@ -1,0 +1,45 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/todestrieb/chpt2/",
+        "traductionsFolderName": "parade/todestrieb/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_2.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "トーデス・トリープ",
+            "romajiTitle": "Todestrieb",
+            "esTitle": "Capítulo 2: En una esquina de un callejón mojado por la lluvia",
+            "videoLink": "https://www.youtube.com/watch?v=6gR3oJj-jaU"
+        },
+        "nextChapterLink": "/parade/todestrieb/chapter-3/",
+        "previousChapterLink": "/parade/todestrieb/chapter-1/",
+        "listChaptersLink": "/parade/",
+        "commentsSection": {
+            "section": "parade/todestrieb/chpt2",
+            "commentsBG": "parade/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/6gR3oJj-jaU?si=1u3frgim_6ZrbEQf",
+                "title": "Todestrieb",
+                "subtitle": "トーデス・トリープ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            }
+        ]
+    }
+}

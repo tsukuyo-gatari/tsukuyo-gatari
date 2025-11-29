@@ -1,0 +1,72 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/shinshou/chpt14/",
+        "traductionsFolderName": "shinzou/shinshou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_14.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "心象録",
+            "romajiTitle": "Shinshou Roku",
+            "esTitle": "Capítulo 14: Imágenes mentales ι",
+            "videoLink": "https://www.youtube.com/watch?v=Y_j7gHOgYY4"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "nextChapterLink": "/shinzou/shinshouRoku/chapter-15/",
+        "previousChapterLink": "/shinzou/shinshouRoku/chapter-13/",
+        "commentsSection": {
+            "section": "shinzou/shinshou/chpt14",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/Y_j7gHOgYY4?si=-_nrZYCIYbilqG6x",
+                "title": "Si no existiera tal vida",
+                "subtitle": "Konna Inochi ga Nakereba - こんな命がなければ"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/X9G5154u884?si=8t_c8WcJ-sLfKorD",
+                "title": "Ruri",
+                "subtitle": "Ruri - るり"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 9,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "title"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 15,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "title"
+            }
+        ]
+    }
+}

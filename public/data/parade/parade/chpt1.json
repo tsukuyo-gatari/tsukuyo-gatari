@@ -1,0 +1,55 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/parade/chpt1/",
+        "traductionsFolderName": "parade/parade/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_1.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "スーサイドパレヱド",
+            "romajiTitle": "Suicide Parade",
+            "esTitle": "Capítulo 1: Mi primera y última felicidad",
+            "videoLink": "https://www.youtube.com/watch?v=7awIdGqyr40"
+        },
+        "nextChapterLink": "/parade/parade/chapter-2/",
+        "listChaptersLink": "/parade/",
+        "commentsSection": {
+            "section": "parade/parade/chpt1",
+            "commentsBG": "parade/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/7awIdGqyr40?si=86vF7-Zvbb9DgTtO",
+                "title": "Suicide Parade",
+                "subtitle": "スーサイドパレヱド"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/xQG0cYa-mM4?si=Cret1guzLPG6GIsn",
+                "title": "Bakemono Gurui",
+                "subtitle": "ばけものぐるい"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 15,
+                "opacity": 0.8,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.8,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "title2",
+                "position": "right"
+            }
+        ]
+    }
+}

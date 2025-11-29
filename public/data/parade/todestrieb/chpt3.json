@@ -1,0 +1,50 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/todestrieb/chpt3/",
+        "traductionsFolderName": "parade/todestrieb/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_3.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "トーデス・トリープ",
+            "romajiTitle": "Todestrieb",
+            "esTitle": "Capítulo 3: Un amor tan asquerosamente hermoso",
+            "videoLink": "https://www.youtube.com/watch?v=6gR3oJj-jaU"
+        },
+        "nextChapterLink": "/parade/todestrieb/chapter-4/",
+        "previousChapterLink": "/parade/todestrieb/chapter-2/",
+        "listChaptersLink": "/parade/",
+        "commentsSection": {
+            "section": "parade/todestrieb/chpt3",
+            "commentsBG": "parade/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/6gR3oJj-jaU?si=1u3frgim_6ZrbEQf",
+                "title": "Todestrieb",
+                "subtitle": "トーデス・トリープ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            }
+        ]
+    }
+}

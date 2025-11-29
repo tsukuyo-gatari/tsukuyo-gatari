@@ -1,0 +1,41 @@
+.animated-button {
+  position: relative;
+  display: inline-block;
+  color: white;
+  background-color: black !important;
+  overflow: hidden;
+  transition: filter 0.4s ease-in-out;
+}
+
+.animated-button .text {
+  position: relative;
+  color: white;
+  z-index: 2;
+  font-weight: 300;
+  letter-spacing: 0.05em;
+  transition: color 0.6s ease;
+}
+
+.animated-button .overlay {
+  position: absolute;
+  inset: 0;
+  background-color: white;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease-out;
+  z-index: 1;
+}
+
+/* Hover Effects */
+.animated-button:hover {
+  color: black;
+  filter: drop-shadow(0 0 0.3em rgb(255, 255, 255));
+}
+
+.animated-button:hover .overlay {
+  transform: scaleX(1);
+}
+
+.animated-button:hover .text{
+    color: black;
+}

@@ -1,0 +1,72 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/kaisou/chpt5/",
+        "traductionsFolderName": "shinzou/kaisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_5.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "廻想録",
+            "romajiTitle": "Kaisou Roku",
+            "esTitle": "Capítulo 5: Las agujas del reloj",
+            "videoLink": "https://www.youtube.com/watch?v=HRdjQ24WFE8"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "nextChapterLink": "/shinzou/kaisouRoku/chapter-6/",
+        "previousChapterLink": "/shinzou/kaisouRoku/chapter-4/",
+        "commentsSection": {
+            "section": "shinzou/kaisou/chpt5",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/HRdjQ24WFE8?si=yXNv5sPdnQamFxPi",
+                "title": "Dusk and Madder, Dust and Flower",
+                "subtitle": "Kure ni Akane, Akuta to Hanataba - 暮れに茜、芥と花束"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 12,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 16,
+                "opacity": 0.75,
+                "imageSrc": "title"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            }
+        ]
+    }
+}

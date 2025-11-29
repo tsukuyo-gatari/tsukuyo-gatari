@@ -1,0 +1,174 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "sorekami/chpt4/",
+        "traductionsFolderName": "sorekami/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_4.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "",
+            "romajiTitle": "",
+            "esTitle": "Capítulo 4: Una luz de esperanza",
+            "videoLink": "https://www.youtube.com/watch?v=meh8utrAqHQ"
+        },
+        "nextChapterLink": "/sorekami/chapter-5-01",
+        "previousChapterLink": "/sorekami/chapter-4-05",
+        "listChaptersLink": "/sorekami/",
+        "commentsSection": {
+            "section": "sorekami/chapters/chpt4",
+            "commentsBG": "sorekami/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/meh8utrAqHQ?si=hx5r_a5Oeykwl5pt",
+                "title": "Detonante",
+                "subtitle": "Douka - 導火"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 14,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 27,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 41,
+                "opacity": 0.7,
+                "imageSrc": "17"
+            },
+            {
+                "breakpoint": 60,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 80,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 99,
+                "opacity": 0.7,
+                "imageSrc": "18"
+            },
+            {
+                "breakpoint": 110,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 125,
+                "opacity": 0.7,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 140,
+                "opacity": 0.7,
+                "imageSrc": "11"
+            },
+            {
+                "breakpoint": 250,
+                "opacity": 0.8,
+                "imageSrc": "13"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 14,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.65,
+                "imageSrc": "7",
+                "position": "left"
+            },
+            {
+                "breakpoint": 27,
+                "opacity": 0.7,
+                "imageSrc": "10"
+            },
+            {
+                "breakpoint": 35,
+                "opacity": 0.75,
+                "imageSrc": "17",
+                "position": "left"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "3",
+                "position": "left"
+            },
+            {
+                "breakpoint": 65,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 80,
+                "opacity": 0.7,
+                "imageSrc": "8",
+                "position": "right"
+            },
+            {
+                "breakpoint": 90,
+                "opacity": 0.7,
+                "imageSrc": "16"
+            },
+            {
+                "breakpoint": 99,
+                "opacity": 0.7,
+                "imageSrc": "19"
+            },
+            {
+                "breakpoint": 105,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 115,
+                "opacity": 0.7,
+                "imageSrc": "14"
+            },
+            {
+                "breakpoint": 130,
+                "opacity": 0.7,
+                "imageSrc": "11"
+            },
+            {
+                "breakpoint": 140,
+                "opacity": 0.8,
+                "imageSrc": "15"
+            },
+            {
+                "breakpoint": 145,
+                "opacity": 0.7,
+                "imageSrc": "20"
+            },
+            {
+                "breakpoint": 155,
+                "opacity": 0.7,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 250,
+                "opacity": 0.7,
+                "imageSrc": "title"
+            }
+        ]
+    }
+}

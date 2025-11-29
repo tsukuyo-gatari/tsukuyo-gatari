@@ -1,0 +1,54 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/todestrieb/chpt4/",
+        "traductionsFolderName": "parade/todestrieb/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_4.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "トーデス・トリープ",
+            "romajiTitle": "Todestrieb",
+            "esTitle": "Capítulo 4: Esta jaula a la que llaman vida",
+            "videoLink": "https://www.youtube.com/watch?v=6gR3oJj-jaU"
+        },
+        "previousChapterLink": "/parade/todestrieb/chapter-3/",
+        "listChaptersLink": "/parade/",
+        "commentsSection": {
+            "section": "parade/todestrieb/chpt4",
+            "commentsBG": "parade/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/6gR3oJj-jaU?si=1u3frgim_6ZrbEQf",
+                "title": "Todestrieb",
+                "subtitle": "トーデス・トリープ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            }
+        ]
+    }
+}

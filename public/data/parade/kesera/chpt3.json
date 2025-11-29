@@ -1,0 +1,55 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/kesera/chpt3/",
+        "traductionsFolderName": "parade/kesera/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_3.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "ケセラリズム",
+            "romajiTitle": "Kesera Rhythm",
+            "esTitle": "Capítulo 3: Pensamientos",
+            "videoLink": "https://www.youtube.com/watch?v=cNvsug-S38Y"
+        },
+        "nextChapterLink": "/parade/kesera/chapter-4/",
+        "previousChapterLink": "/parade/kesera/chapter-2/",
+        "listChaptersLink": "/parade/",
+        "commentsSection": {
+            "section": "parade/kesera/chpt3",
+            "commentsBG": "parade/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/cNvsug-S38Y?si=dYfbQUgoO5E9qckv",
+                "title": "Kesera Rhythm",
+                "subtitle": "ケセラリズム"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/xQG0cYa-mM4?si=Cret1guzLPG6GIsn",
+                "title": "Bakemono Gurui",
+                "subtitle": "ばけものぐるい"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 20,
+                "opacity": 0.8,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.8,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.8,
+                "imageSrc": "2"
+            }
+        ]
+    }
+}

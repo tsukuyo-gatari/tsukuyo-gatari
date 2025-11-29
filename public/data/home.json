@@ -1,0 +1,39 @@
+{
+    "novelResumes": [
+        {
+            "sumaryFile": "shinzou/shinzou_summary.txt",
+            "image": "home/1",
+            "to": "shinzou/",
+            "videoLink": "https://www.youtube.com/watch?v=jS-Ws3x-39o"
+        },
+        {
+            "sumaryFile": "sorekami/sorekami_summary.txt",
+            "image": "home/2",
+            "to": "sorekami/",
+            "videoLink": "https://www.youtube.com/watch?v=4aulzXoY6ME"
+        },
+        {
+            "sumaryFile": "parade/parade_summary.txt",
+            "image": "home/3",
+            "to": "parade/",
+            "videoLink": "https://www.youtube.com/watch?v=cNvsug-S38Y"
+        },
+        {
+            "sumaryFile": "ningen/ningen_summary.txt",
+            "image": "home/4",
+            "to": "ningen/",
+            "videoLink": "https://www.youtube.com/watch?v=0qY9rsBAKPk"
+        },
+        {
+            "sumaryFile": "jigoku/jigoku_summary.txt",
+            "image": "home/5",
+            "to": "jigoku/",
+            "videoLink": "https://www.youtube.com/watch?v=QRJRGtxfWpk"
+        }
+    ],
+    "commentSection": {
+        "section": "home",
+        "commentsBG": "home/comment_bg",
+        "bgPosition": "center"
+    }
+}

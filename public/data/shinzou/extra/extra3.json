@@ -1,0 +1,58 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/extra/extra3/",
+        "traductionsFolderName": "shinzou/extra/"
+    },
+    "chapterData": {
+        "chapterFile": "extra_3.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "",
+            "romajiTitle": "Extra",
+            "esTitle": "Ookami Shounen 狼少年",
+            "videoLink": "https://www.youtube.com/watch?v=kKCIUMOLIZk"
+        },
+        "previousChapterLink": "/shinzou/extra/tetra/",
+        "commentsSection": {
+            "section": "shinzou/extra/ookami",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/kKCIUMOLIZk?si=GZblwgPXQocCwB55",
+                "title": "Ookami Shounen",
+                "subtitle": "狼少年"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.8,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 3,
+                "opacity": 0.8,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 8,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            }
+        ]
+    }
+}

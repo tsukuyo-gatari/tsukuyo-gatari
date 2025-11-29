@@ -1,0 +1,170 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "sorekami/chpt4a/",
+        "traductionsFolderName": "sorekami/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_4-0.5.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "死神",
+            "romajiTitle": "Shinigami",
+            "esTitle": "Capítulo 4-0.5: Deidad de la muerte",
+            "videoLink": "https://www.youtube.com/watch?v=7RkQ8X6P_3k"
+        },
+        "nextChapterLink": "/sorekami/chapter-4",
+        "previousChapterLink": "/sorekami/chapter-3",
+        "listChaptersLink": "/sorekami/",
+        "commentsSection": {
+            "section": "sorekami/chapters/chpt4-05",
+            "commentsBG": "sorekami/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/7RkQ8X6P_3k?si=sPfF-Ifb0JWJFZ-r",
+                "title": "Más hermoso que la muerte",
+                "subtitle": "Shi yori uruwashi - 死よりうるわし"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 13,
+                "opacity": 0.7,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 55,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 66,
+                "opacity": 0.65,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 77,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 90,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 101,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 115,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 250,
+                "opacity": 0.7,
+                "imageSrc": "15"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.7,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 13,
+                "opacity": 0.7,
+                "imageSrc": "16"
+            },
+            {
+                "breakpoint": 18,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 23,
+                "opacity": 0.7,
+                "imageSrc": "14"
+            },
+            {
+                "breakpoint": 33,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.75,
+                "imageSrc": "8"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 60,
+                "opacity": 0.7,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 70,
+                "opacity": 0.7,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 76,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 85,
+                "opacity": 0.7,
+                "imageSrc": "10"
+            },
+            {
+                "breakpoint": 95,
+                "opacity": 0.7,
+                "imageSrc": "17"
+            },
+            {
+                "breakpoint": 105,
+                "opacity": 0.7,
+                "imageSrc": "18"
+            },
+            {
+                "breakpoint": 113,
+                "opacity": 0.7,
+                "imageSrc": "11"
+            },
+            {
+                "breakpoint": 120,
+                "opacity": 0.7,
+                "imageSrc": "19"
+            },
+            {
+                "breakpoint": 125,
+                "opacity": 0.7,
+                "imageSrc": "20"
+            },
+            {
+                "breakpoint": 250,
+                "opacity": 0.7,
+                "imageSrc": "15"
+            }
+        ]
+    }
+}

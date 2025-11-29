@@ -1,0 +1,92 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/shinshou/chpt7/",
+        "traductionsFolderName": "shinzou/shinshou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_7.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "心象録",
+            "romajiTitle": "Shinshou Roku",
+            "esTitle": "Capítulo 7: Emerge",
+            "videoLink": "https://www.youtube.com/watch?v=Zd25wIFJhIo"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "nextChapterLink": "/shinzou/shinshouRoku/chapter-8/",
+        "previousChapterLink": "/shinzou/shinshouRoku/chapter-6/",
+        "commentsSection": {
+            "section": "shinzou/shinshou/chpt7",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/Zd25wIFJhIo?si=T0u4BRKC0qw92LkA",
+                "title": "Necrópolis",
+                "subtitle": "ネクロポリス"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 3,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 4,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 6,
+                "opacity": 0.65,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 9,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 12,
+                "opacity": 0.8,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 14,
+                "opacity": 0.6,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 18,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.8,
+                "imageSrc": "8"
+            }
+        ]
+    }
+}

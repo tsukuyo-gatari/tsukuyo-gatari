@@ -1,0 +1,154 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "sorekami/chpt7/",
+        "traductionsFolderName": "sorekami/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_7.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "ハクメイ",
+            "romajiTitle": "Hakumei",
+            "esTitle": "Capítulo final: Efímero",
+            "videoLink": "https://www.youtube.com/watch?v=eSpqMUOvRkw"
+        },
+        "previousChapterLink": "/sorekami/chapter-6",
+        "listChaptersLink": "/sorekami/",
+        "commentsSection": {
+            "section": "sorekami/chapters/chpt7",
+            "commentsBG": "sorekami/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/eSpqMUOvRkw?si=-qJzty09MClAXq-0",
+                "title": "Efímero",
+                "subtitle": "Hakumei - ハクメイ"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/-qE9d3r1jIE?si=6qHB_maA_oBStzMI",
+                "title": "We call it the deity",
+                "subtitle": "Sore wo bokura wa kami sama to yobu - それを僕らは神様と呼ぶ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 11,
+                "opacity": 0.7,
+                "imageSrc": "15"
+            },
+            {
+                "breakpoint": 28,
+                "opacity": 0.7,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.7,
+                "imageSrc": "14"
+            },
+            {
+                "breakpoint": 53,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 66,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 77,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 88,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 98,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 250,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 11,
+                "opacity": 0.7,
+                "imageSrc": "15"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 28,
+                "opacity": 0.7,
+                "imageSrc": "11"
+            },
+            {
+                "breakpoint": 33,
+                "opacity": 0.7,
+                "imageSrc": "14"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 53,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 60,
+                "opacity": 0.7,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 70,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 76,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 82,
+                "opacity": 0.7,
+                "imageSrc": "10"
+            },
+            {
+                "breakpoint": 87,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 92,
+                "opacity": 0.7,
+                "imageSrc": "8"
+            },
+            {
+                "breakpoint": 98,
+                "opacity": 0.7,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 250,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            }
+        ]
+    }
+}

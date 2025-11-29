@@ -1,0 +1,110 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "sorekami/chpt3/",
+        "traductionsFolderName": "sorekami/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_3.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "導火",
+            "romajiTitle": "Douka",
+            "esTitle": "Capítulo 3: Detonante",
+            "videoLink": "https://www.youtube.com/watch?v=meh8utrAqHQ"
+        },
+        "nextChapterLink": "/sorekami/chapter-4-05",
+        "previousChapterLink": "/sorekami/chapter-3-04",
+        "listChaptersLink": "/sorekami/",
+        "commentsSection": {
+            "section": "sorekami/chapters/chpt3",
+            "commentsBG": "sorekami/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/meh8utrAqHQ?si=hx5r_a5Oeykwl5pt",
+                "title": "Detonante",
+                "subtitle": "Douka - 導火"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 21,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 33,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 43,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 55,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.7,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 13,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 21,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 27,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 35,
+                "opacity": 0.7,
+                "imageSrc": "10"
+            },
+            {
+                "breakpoint": 43,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 60,
+                "opacity": 0.75,
+                "imageSrc": "8"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            }
+        ]
+    }
+}

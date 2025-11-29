@@ -1,0 +1,50 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/parade/chpt3/",
+        "traductionsFolderName": "parade/parade/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_3.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "スーサイドパレヱド",
+            "romajiTitle": "Suicide Parade",
+            "esTitle": "Capítulo 3: Ella está observando desde la torre fantasmal",
+            "videoLink": "https://www.youtube.com/watch?v=7awIdGqyr40"
+        },
+        "nextChapterLink": "/parade/parade/chapter-4/",
+        "previousChapterLink": "/parade/parade/chapter-2/",
+        "listChaptersLink": "/parade/",
+        "commentsSection": {
+            "section": "parade/parade/chpt3",
+            "commentsBG": "parade/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/7awIdGqyr40?si=86vF7-Zvbb9DgTtO",
+                "title": "Suicide Parade",
+                "subtitle": "スーサイドパレヱド"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 15,
+                "opacity": 0.8,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.8,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.75,
+                "imageSrc": "title1"
+            }
+        ]
+    }
+}

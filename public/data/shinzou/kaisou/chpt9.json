@@ -1,0 +1,67 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/kaisou/chpt9/",
+        "traductionsFolderName": "shinzou/kaisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_9.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "廻想録",
+            "romajiTitle": "Kaisou Roku",
+            "esTitle": "Capítulo 9: Reminiscencias III",
+            "videoLink": "https://www.youtube.com/watch?v=cHcqI40JpXg"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "nextChapterLink": "/shinzou/kaisouRoku/chapter-10/",
+        "previousChapterLink": "/shinzou/kaisouRoku/chapter-8/",
+        "commentsSection": {
+            "section": "shinzou/kaisou/chpt9",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/cHcqI40JpXg?si=M4YnGKNm5pKDo4mg",
+                "title": "Luz Lunar del medio día",
+                "subtitle": "Mahiru no Tsuki Akari - 真昼の月明かり"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/X9G5154u884?si=8t_c8WcJ-sLfKorD",
+                "title": "Ruri",
+                "subtitle": "Ruri - るり"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.6,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.6,
+                "imageSrc": "title"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.6,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.6,
+                "imageSrc": "title"
+            }
+        ]
+    }
+}

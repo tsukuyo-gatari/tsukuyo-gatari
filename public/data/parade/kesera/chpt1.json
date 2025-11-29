@@ -1,0 +1,50 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/kesera/chpt1/",
+        "traductionsFolderName": "parade/kesera/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_1.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "ケセラリズム",
+            "romajiTitle": "Kesera Rhythm",
+            "esTitle": "Capítulo 1: Prólogo",
+            "videoLink": "https://www.youtube.com/watch?v=cNvsug-S38Y"
+        },
+        "nextChapterLink": "/parade/kesera/chapter-2/",
+        "previousChapterLink": "/parade/parade/chapter-9/",
+        "listChaptersLink": "/parade/",
+        "commentsSection": {
+            "section": "parade/kesera/chpt1",
+            "commentsBG": "parade/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/cNvsug-S38Y?si=dYfbQUgoO5E9qckv",
+                "title": "Kesera Rhythm",
+                "subtitle": "ケセラリズム"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 20,
+                "opacity": 0.8,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.8,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.8,
+                "imageSrc": "title1"
+            }
+        ]
+    }
+}

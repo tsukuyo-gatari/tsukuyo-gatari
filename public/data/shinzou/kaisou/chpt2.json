@@ -1,0 +1,98 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/kaisou/chpt2/",
+        "traductionsFolderName": "shinzou/kaisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_2.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "廻想録",
+            "romajiTitle": "Kaisou Roku",
+            "esTitle": "Capítulo 2: Reminiscencias II",
+            "videoLink": "https://www.youtube.com/watch?v=HKsSGYCRGFk"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "nextChapterLink": "/shinzou/kaisouRoku/chapter-3/",
+        "previousChapterLink": "/shinzou/kaisouRoku/chapter-1/",
+        "commentsSection": {
+            "section": "shinzou/kaisou/chpt2",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/HKsSGYCRGFk?si=tqFZZ-KN1j7g6bOj",
+                "title": "Razón de existir",
+                "subtitle": "Ikiru Yosuga - 生きるよすが"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/Y_j7gHOgYY4?si=-_nrZYCIYbilqG6x",
+                "title": "Si no existiera tal vida",
+                "subtitle": "Konna Inochi ga Nakereba - こんな命がなければ"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/X9G5154u884?si=8t_c8WcJ-sLfKorD",
+                "title": "Ruri",
+                "subtitle": "Ruri - るり"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.7,
+                "imageSrc": "title"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 15,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.7,
+                "imageSrc": "title",
+                "position": "left"
+            }
+        ]
+    }
+}

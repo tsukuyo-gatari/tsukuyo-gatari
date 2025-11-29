@@ -1,0 +1,198 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/tsuisou/chpt5/",
+        "traductionsFolderName": "shinzou/tsuisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_5.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "追想録",
+            "romajiTitle": "Tsuisou Roku",
+            "esTitle": "Capítulo 5: El talento",
+            "videoLink": "https://www.youtube.com/watch?v=RugdREg69Nc"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon2"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon2"
+        },
+        "nextChapterLink": "/shinzou/kaisouRoku/chapter-1/",
+        "previousChapterLink": "/shinzou/tsuisouRoku/chapter-4/",
+        "commentsSection": {
+            "section": "shinzou/tsuisou/chpt5",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/RugdREg69Nc?si=GB63KrqtLzUvQyGZ",
+                "title": "Hasta que la Luna se apague",
+                "subtitle": "Tsuki Tomori no kiyu made - 月灯りの消ゆまで"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 51,
+                "opacity": 0.7,
+                "imageSrc": "title"
+            },
+            {
+                "breakpoint": 70,
+                "opacity": 0.7,
+                "imageSrc": "19"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 130,
+                "opacity": 0.7,
+                "imageSrc": "23"
+            },
+            {
+                "breakpoint": 142,
+                "opacity": 0.7,
+                "imageSrc": "4",
+                "position": "left"
+            },
+            {
+                "breakpoint": 160,
+                "opacity": 0.75,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 175,
+                "opacity": 0.8,
+                "imageSrc": "20"
+            },
+            {
+                "breakpoint": 190,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 300,
+                "opacity": 0.3,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "24"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "title"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.7,
+                "imageSrc": "8"
+            },
+            {
+                "breakpoint": 51,
+                "opacity": 0.7,
+                "imageSrc": "25"
+            },
+            {
+                "breakpoint": 65,
+                "opacity": 0.7,
+                "imageSrc": "26"
+            },
+            {
+                "breakpoint": 81,
+                "opacity": 0.7,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 96,
+                "opacity": 0.7,
+                "imageSrc": "10"
+            },
+            {
+                "breakpoint": 111,
+                "opacity": 0.7,
+                "imageSrc": "21"
+            },
+            {
+                "breakpoint": 120,
+                "opacity": 0.7,
+                "imageSrc": "11"
+            },
+            {
+                "breakpoint": 135,
+                "opacity": 0.7,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 140,
+                "opacity": 0.7,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 145,
+                "opacity": 0.75,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 160,
+                "opacity": 0.75,
+                "imageSrc": "27"
+            },
+            {
+                "breakpoint": 170,
+                "opacity": 0.75,
+                "imageSrc": "14"
+            },
+            {
+                "breakpoint": 180,
+                "opacity": 0.65,
+                "imageSrc": "15"
+            },
+            {
+                "breakpoint": 185,
+                "opacity": 0.7,
+                "imageSrc": "22"
+            },
+            {
+                "breakpoint": 188,
+                "opacity": 0.7,
+                "imageSrc": "17"
+            },
+            {
+                "breakpoint": 192,
+                "opacity": 0.7,
+                "imageSrc": "16"
+            },
+            {
+                "breakpoint": 202,
+                "opacity": 0.7,
+                "imageSrc": "18"
+            },
+            {
+                "breakpoint": 300,
+                "opacity": 0.3,
+                "imageSrc": "2"
+            }
+        ]
+    }
+}

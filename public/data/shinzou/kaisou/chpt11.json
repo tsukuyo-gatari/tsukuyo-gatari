@@ -1,0 +1,99 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/kaisou/chpt11/",
+        "traductionsFolderName": "shinzou/kaisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_11.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "廻想録",
+            "romajiTitle": "Kaisou Roku",
+            "esTitle": "Capítulo final: Reminiscencias IV",
+            "videoLink": "https://www.youtube.com/watch?v=2Q9o9kUZXRI"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "nextChapterLink": "/shinzou/kaisouRoku/chapter-12/",
+        "previousChapterLink": "/shinzou/kaisouRoku/chapter-10/",
+        "commentsSection": {
+            "section": "shinzou/kaisou/chpt11",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/2Q9o9kUZXRI?si=zirt_6kyLlX94EFl",
+                "title": "Sing The Moon",
+                "subtitle": "Tsuki ga Michiru - 月が満ちる"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/Jck-oQ6hO0Y?si=glXvpIJ6WvLHSm_z",
+                "title": "Lluvia para las flores, Para ti esta canción",
+                "subtitle": "Hana ni Ame wo Kimi ni Uta wo - 花に雨を、君に歌を"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/hZFBTnzKa54?si=17lhPUq98z6jNkuX",
+                "title": "I want to be your heart",
+                "subtitle": "Dareka no shinzou ni nareta nara - 誰かの心臓になれたなら"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/X9G5154u884?si=8t_c8WcJ-sLfKorD",
+                "title": "Ruri",
+                "subtitle": "Ruri - るり"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 6,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 15,
+                "opacity": 0.8,
+                "imageSrc": "6",
+                "position": "top"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 6,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 11,
+                "opacity": 0.8,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 16,
+                "opacity": 0.65,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 21,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.75,
+                "imageSrc": "3",
+                "position": "left"
+            }
+        ]
+    }
+}

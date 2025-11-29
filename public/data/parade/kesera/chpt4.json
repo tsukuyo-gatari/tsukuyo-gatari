@@ -1,0 +1,92 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/kesera/chpt4/",
+        "traductionsFolderName": "parade/kesera/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_4.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "ケセラリズム",
+            "romajiTitle": "Kesera Rhythm",
+            "esTitle": "Capítulo 4: Encuentro casual",
+            "videoLink": "https://www.youtube.com/watch?v=cNvsug-S38Y"
+        },
+        "nextChapterLink": "/parade/kesera/chapter-5/",
+        "previousChapterLink": "/parade/kesera/chapter-3/",
+        "listChaptersLink": "/parade/",
+        "commentsSection": {
+            "section": "parade/kesera/chpt4",
+            "commentsBG": "parade/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/cNvsug-S38Y?si=dYfbQUgoO5E9qckv",
+                "title": "Kesera Rhythm",
+                "subtitle": "ケセラリズム"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/xQG0cYa-mM4?si=Cret1guzLPG6GIsn",
+                "title": "Bakemono Gurui",
+                "subtitle": "ばけものぐるい"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 20,
+                "opacity": 0.8,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.8,
+                "imageSrc": "title1",
+                "position": "right"
+            },
+            {
+                "breakpoint": 60,
+                "opacity": 0.8,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 6,
+                "opacity": 0.8,
+                "imageSrc": "1",
+                "position": "right"
+            },
+            {
+                "breakpoint": 11,
+                "opacity": 0.8,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 17,
+                "opacity": 0.8,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.8,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.8,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 33,
+                "opacity": 0.8,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.8,
+                "imageSrc": "7"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+*********************************************
+Reporte #4
+
+Nombre: xxxxxx
+Edad: 22 años
+Sexo: Masculino
+Lugar de nacimiento: Distrito 9
+Fecha de experimentación: 2118/1/28 21:54
+Resultados: Fracaso. Muerte.
+
+*********************************************
+Reporte #5
+
+Nombre: xxxxxx
+Edad: 18 años
+Sexo: Masculino
+Lugar de nacimiento: Distrito 4
+Fecha de experimentación: 2118/1/28 22:39
+Resultados: Éxito. Muerte al segundo experimento.
+
+*********************************************
+Reporte #6
+
+Nombre: xxxxxx
+Edad: 19 años
+Sexo: Femenino
+Lugar de nacimiento: Distrito 1
+Fecha de experimentación: 2118/1/28 23:27
+Resultados: Fracaso. Muerte.
+
+*********************************************
+Reporte #13
+
+Nombre: xxxxxx
+Edad: 27 años
+Sexo: Femenino
+Lugar de nacimiento: Distrito 2
+Fecha de experimentación: 2118/1/29 9:48
+Resultados: Fracaso. Muerte.
+
+*********************************************
+Reporte #14
+
+Nombre: xxxxxx
+Edad: 18 años
+Sexo: Masculino
+Lugar de nacimiento: Distrito 5
+Fecha de experimentación: 2118/1/29 20:14
+Resultados: Fracaso. Muerte.
+
+*********************************************
+Reporte #15
+
+Nombre: xxxxxx
+Edad: 21 años
+Sexo: Masculino
+Lugar de nacimiento: Distrito 11
+Fecha de experimentación: 2118/1/29 22:27
+Resultados: Éxito

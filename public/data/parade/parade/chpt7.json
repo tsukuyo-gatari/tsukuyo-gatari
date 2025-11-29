@@ -1,0 +1,45 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/parade/chpt7/",
+        "traductionsFolderName": "parade/parade/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_7.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "スーサイドパレヱド",
+            "romajiTitle": "Suicide Parade",
+            "esTitle": "Capítulo 7: ???",
+            "videoLink": "https://www.youtube.com/watch?v=7awIdGqyr40"
+        },
+        "nextChapterLink": "/parade/parade/chapter-8/",
+        "previousChapterLink": "/parade/parade/chapter-6/",
+        "listChaptersLink": "/parade/",
+        "commentsSection": {
+            "section": "parade/parade/chpt7",
+            "commentsBG": "parade/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/7awIdGqyr40?si=86vF7-Zvbb9DgTtO",
+                "title": "Suicide Parade",
+                "subtitle": "スーサイドパレヱド"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            }
+        ]
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/tsuisou/chpt4/",
+        "traductionsFolderName": "shinzou/tsuisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_4.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "追想録",
+            "romajiTitle": "Tsuisou Roku",
+            "esTitle": "Capítulo 4: Aquello que tiene valor",
+            "videoLink": "https://www.youtube.com/watch?v=ndVeUn97Nh0"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon2"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon2"
+        },
+        "nextChapterLink": "/shinzou/tsuisouRoku/chapter-5/",
+        "previousChapterLink": "/shinzou/tsuisouRoku/chapter-3/",
+        "commentsSection": {
+            "section": "shinzou/tsuisou/chpt4",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/ndVeUn97Nh0?si=7KcWHGkmiJlkJ4Pf",
+                "title": "Reminiscencias",
+                "subtitle": "Kaisou - 廻想"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/HKsSGYCRGFk?si=tqFZZ-KN1j7g6bOj",
+                "title": "Razón de existir",
+                "subtitle": "Ikiru Yosuga - 生きるよすが"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.6,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 28,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 49,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 64,
+                "opacity": 0.7,
+                "imageSrc": "18"
+            },
+            {
+                "breakpoint": 81,
+                "opacity": 0.7,
+                "imageSrc": "4",
+                "position": "right"
+            },
+            {
+                "breakpoint": 95,
+                "opacity": 0.8,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 116,
+                "opacity": 0.7,
+                "imageSrc": "title2"
+            },
+            {
+                "breakpoint": 135,
+                "opacity": 0.75,
+                "imageSrc": "21"
+            },
+            {
+                "breakpoint": 150,
+                "opacity": 0.5,
+                "imageSrc": "6"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.6,
+                "imageSrc": "19"
+            },
+            {
+                "breakpoint": 14,
+                "opacity": 0.75,
+                "imageSrc": "17"
+            },
+            {
+                "breakpoint": 21,
+                "opacity": 0.7,
+                "imageSrc": "20"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "16"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.75,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 49,
+                "opacity": 0.7,
+                "imageSrc": "18"
+            },
+            {
+                "breakpoint": 61,
+                "opacity": 0.7,
+                "imageSrc": "8"
+            },
+            {
+                "breakpoint": 72,
+                "opacity": 0.7,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 81,
+                "opacity": 0.7,
+                "imageSrc": "15"
+            },
+            {
+                "breakpoint": 90,
+                "opacity": 0.75,
+                "imageSrc": "10"
+            },
+            {
+                "breakpoint": 102,
+                "opacity": 0.75,
+                "imageSrc": "11"
+            },
+            {
+                "breakpoint": 116,
+                "opacity": 0.7,
+                "imageSrc": "title2"
+            },
+            {
+                "breakpoint": 123,
+                "opacity": 0.6,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 131,
+                "opacity": 0.6,
+                "imageSrc": "21"
+            },
+            {
+                "breakpoint": 137,
+                "opacity": 0.7,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 142,
+                "opacity": 0.7,
+                "imageSrc": "14"
+            },
+            {
+                "breakpoint": 150,
+                "opacity": 0.5,
+                "imageSrc": "6"
+            }
+        ]
+    }
+}

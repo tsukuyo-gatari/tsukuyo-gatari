@@ -1,0 +1,215 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "sorekami/chpt2a/",
+        "traductionsFolderName": "sorekami/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_2.307.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "秋うらら",
+            "romajiTitle": "Aki urara",
+            "esTitle": "Capítulo 2.307: Glorioso otoño",
+            "videoLink": "https://www.youtube.com/watch?v=Yyqw-BHRmfw"
+        },
+        "nextChapterLink": "/sorekami/chapter-2",
+        "previousChapterLink": "/sorekami/chapter-1-04",
+        "listChaptersLink": "/sorekami/",
+        "commentsSection": {
+            "section": "sorekami/chapters/chpt2-307",
+            "commentsBG": "sorekami/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/Yyqw-BHRmfw?si=JB8Oss1A3_IK19dH",
+                "title": "Glorioso otoño",
+                "subtitle": "Aki urara - 秋うらら"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 35,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.5,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 66,
+                "opacity": 0.75,
+                "imageSrc": "17"
+            },
+            {
+                "breakpoint": 85,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 120,
+                "opacity": 0.65,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 145,
+                "opacity": 0.7,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 155,
+                "opacity": 0.7,
+                "imageSrc": "8"
+            },
+            {
+                "breakpoint": 165,
+                "opacity": 0.7,
+                "imageSrc": "23"
+            },
+            {
+                "breakpoint": 200,
+                "opacity": 0.7,
+                "imageSrc": "11"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 10,
+                "opacity": 0.75,
+                "imageSrc": "10"
+            },
+            {
+                "breakpoint": 18,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.65,
+                "imageSrc": "21"
+            },
+            {
+                "breakpoint": 33,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.7,
+                "imageSrc": "18"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 62,
+                "opacity": 0.75,
+                "imageSrc": "17"
+            },
+            {
+                "breakpoint": 71,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 77,
+                "opacity": 0.7,
+                "imageSrc": "20"
+            },
+            {
+                "breakpoint": 84,
+                "opacity": 0.7,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 90,
+                "opacity": 0.7,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 110,
+                "opacity": 0.7,
+                "imageSrc": "14"
+            },
+            {
+                "breakpoint": 115,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 120,
+                "opacity": 0.7,
+                "imageSrc": "15"
+            },
+            {
+                "breakpoint": 130,
+                "opacity": 0.7,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 140,
+                "opacity": 0.7,
+                "imageSrc": "16"
+            },
+            {
+                "breakpoint": 145,
+                "opacity": 0.7,
+                "imageSrc": "8"
+            },
+            {
+                "breakpoint": 150,
+                "opacity": 0.7,
+                "imageSrc": "19"
+            },
+            {
+                "breakpoint": 155,
+                "opacity": 0.7,
+                "imageSrc": "22"
+            },
+            {
+                "breakpoint": 165,
+                "opacity": 0.7,
+                "imageSrc": "23"
+            },
+            {
+                "breakpoint": 169,
+                "opacity": 0.7,
+                "imageSrc": "24"
+            },
+            {
+                "breakpoint": 200,
+                "opacity": 0.7,
+                "imageSrc": "11"
+            }
+        ]
+    }
+}

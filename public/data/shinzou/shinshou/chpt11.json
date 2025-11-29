@@ -1,0 +1,92 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/shinshou/chpt11/",
+        "traductionsFolderName": "shinzou/shinshou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_11.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "心象録",
+            "romajiTitle": "Shinshou Roku",
+            "esTitle": "Capítulo 11: Imágenes mentales η",
+            "videoLink": "https://www.youtube.com/watch?v=4CVZvOTpLQw"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "nextChapterLink": "/shinzou/shinshouRoku/chapter-12/",
+        "previousChapterLink": "/shinzou/shinshouRoku/chapter-10/",
+        "commentsSection": {
+            "section": "shinzou/shinshou/chpt11",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/4CVZvOTpLQw?si=4URkTuh5Njnyf6z3",
+                "title": "Palabras de primavera",
+                "subtitle": "Harumeku Kotoba - 春めく言葉"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 27,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.75,
+                "imageSrc": "6"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 15,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 24,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.75,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.75,
+                "imageSrc": "6"
+            }
+        ]
+    }
+}

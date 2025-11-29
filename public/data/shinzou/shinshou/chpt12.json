@@ -1,0 +1,87 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/shinshou/chpt12/",
+        "traductionsFolderName": "shinzou/shinshou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_12.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "心象録",
+            "romajiTitle": "Shinshou Roku",
+            "esTitle": "Capítulo 12: Imágenes mentales θ",
+            "videoLink": "https://www.youtube.com/watch?v=oNWHODZ-THc"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "nextChapterLink": "/shinzou/shinshouRoku/chapter-13/",
+        "previousChapterLink": "/shinzou/shinshouRoku/chapter-11/",
+        "commentsSection": {
+            "section": "shinzou/shinshou/chpt12",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/oNWHODZ-THc?si=PRI7rbvn-LpFDymF",
+                "title": "Crescent",
+                "subtitle": ""
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 14,
+                "opacity": 0.65,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.55,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.55,
+                "imageSrc": "3"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.65,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 12,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.75,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 22,
+                "opacity": 0.55,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 28,
+                "opacity": 0.55,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.55,
+                "imageSrc": "3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/kaisou/chpt6/",
+        "traductionsFolderName": "shinzou/kaisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_6.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "廻想録",
+            "romajiTitle": "Kaisou Roku",
+            "esTitle": "Capítulo 6: La Realidad",
+            "videoLink": "https://www.youtube.com/watch?v=RugdREg69Nc"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "nextChapterLink": "/shinzou/kaisouRoku/chapter-7/",
+        "previousChapterLink": "/shinzou/kaisouRoku/chapter-5/",
+        "commentsSection": {
+            "section": "shinzou/kaisou/chpt6",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/RugdREg69Nc?si=GB63KrqtLzUvQyGZ",
+                "title": "Hasta que la Luna se apague",
+                "subtitle": "Tsuki Tomori no kiyu made - 月灯りの消ゆまで"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.8,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 3,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 7,
+                "opacity": 0.6,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 13,
+                "opacity": 0.6,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 15,
+                "opacity": 0.6,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            }
+        ]
+    }
+}

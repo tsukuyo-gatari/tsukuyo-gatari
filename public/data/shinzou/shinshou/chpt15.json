@@ -1,0 +1,65 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/shinshou/chpt15/",
+        "traductionsFolderName": "shinzou/shinshou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_15.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "心象録",
+            "romajiTitle": "Shinshou Roku",
+            "esTitle": "Capítulo 15: Imágenes mentales ν",
+            "videoLink": "https://www.youtube.com/watch?v=Y_j7gHOgYY4"
+        },
+        "previousChapterLink": "/shinzou/shinshouRoku/chapter-14/",
+        "nextChapterLink": "/shinzou/tsuisouRoku/chapter-0/",
+        "commentsSection": {
+            "section": "shinzou/shinshou/chpt15",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/Y_j7gHOgYY4?si=-_nrZYCIYbilqG6x",
+                "title": "Si no existiera tal vida",
+                "subtitle": "Konna Inochi ga Nakereba - こんな命がなければ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+            "breakpoint": 5,
+            "opacity": 0.7,
+            "imageSrc": "1"
+            },
+            {
+            "breakpoint": 10,
+            "opacity": 0,
+            "imageSrc": "2"
+            },
+            {
+            "breakpoint": 50,
+            "opacity": 0.7,
+            "imageSrc": "3"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+            "breakpoint": 5,
+            "opacity": 0.7,
+            "imageSrc": "1"
+            },
+            {
+            "breakpoint": 10,
+            "opacity": 0.3,
+            "imageSrc": "2",
+            "position": "right"
+            },
+            {
+            "breakpoint": 50,
+            "opacity": 0.7,
+            "imageSrc": "3"
+            }
+        ]
+    }
+}

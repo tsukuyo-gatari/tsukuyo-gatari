@@ -1,0 +1,67 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/kaisou/chpt3/",
+        "traductionsFolderName": "shinzou/kaisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_3.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "廻想録",
+            "romajiTitle": "Kaisou Roku",
+            "esTitle": "Capítulo 3: Aquello que llaman \"El camino correcto\"",
+            "videoLink": "https://www.youtube.com/watch?v=SrFUh1u2eQg"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "nextChapterLink": "/shinzou/kaisouRoku/chapter-4/",
+        "previousChapterLink": "/shinzou/kaisouRoku/chapter-2/",
+        "commentsSection": {
+            "section": "shinzou/kaisou/chpt3",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/SrFUh1u2eQg?si=ooTeJvrrpaoUlEHG",
+                "title": "In my view, this world is",
+                "subtitle": "Shuuaku - 醜悪"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "title"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 6,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 11,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "title"
+            }
+        ]
+    }
+}

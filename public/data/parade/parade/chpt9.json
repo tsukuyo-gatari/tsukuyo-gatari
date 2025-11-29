@@ -1,0 +1,65 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/parade/chpt9/",
+        "traductionsFolderName": "parade/parade/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_9.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "スーサイドパレヱド",
+            "romajiTitle": "Suicide Parade",
+            "esTitle": "Capítulo 9: Espiral Nébula",
+            "videoLink": "https://www.youtube.com/watch?v=7awIdGqyr40"
+        },
+        "nextChapterLink": "/parade/kesera/chapter-1/",
+        "previousChapterLink": "/parade/parade/chapter-8/",
+        "listChaptersLink": "/parade/",
+        "commentsSection": {
+            "section": "parade/parade/chpt9",
+            "commentsBG": "parade/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/7awIdGqyr40?si=86vF7-Zvbb9DgTtO",
+                "title": "Suicide Parade",
+                "subtitle": "スーサイドパレヱド"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/cNvsug-S38Y?si=dYfbQUgoO5E9qckv",
+                "title": "Kesera Rhythm",
+                "subtitle": "ケセラリズム"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 6,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.8,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 3,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 6,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.8,
+                "imageSrc": "2"
+            }
+        ]
+    }
+}

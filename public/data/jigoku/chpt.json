@@ -1,0 +1,83 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "jigoku/chpt/",
+        "traductionsFolderName": "jigoku/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "少女地獄",
+            "romajiTitle": "Shoujo Jigoku",
+            "esTitle": "",
+            "videoLink": "https://www.youtube.com/watch?v=QRJRGtxfWpk"
+        },
+        "commentsSection": {
+            "section": "jigoku/chapters/chpt",
+            "commentsBG": "jigoku/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/QRJRGtxfWpk?si=egBT1xIep15Lvjv7",
+                "title": "Shoujo Jigoku",
+                "subtitle": "少女地獄"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 13,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 105,
+                "opacity": 0.7,
+                "imageSrc": "3",
+                "position": "center top"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 6,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 36,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 105,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            }
+        ]
+    }
+}

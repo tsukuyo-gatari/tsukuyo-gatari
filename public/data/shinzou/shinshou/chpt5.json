@@ -1,0 +1,87 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/shinshou/chpt5/",
+        "traductionsFolderName": "shinzou/shinshou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_5.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "心象録",
+            "romajiTitle": "Shinshou Roku",
+            "esTitle": "Capítulo 5: Cold",
+            "videoLink": "https://www.youtube.com/watch?v=rSKhmsVi9oo"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 2,
+            "moonImageSrc": "/moon1"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "nextChapterLink": "/shinzou/shinshouRoku/chapter-6/",
+        "previousChapterLink": "/shinzou/shinshouRoku/chapter-4/",
+        "commentsSection": {
+            "section": "shinzou/shinshou/chpt5",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/rSKhmsVi9oo?si=MZPFUzxCW1tP2NaG",
+                "title": "Absolute Zero",
+                "subtitle": "Zettai Reido - 絶対零度"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/0qY9rsBAKPk?si=77wqCLtgDyCgukOq",
+                "title": "Humanly",
+                "subtitle": "Ningen Rashii - 人間らしい"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/G69S4nkoFgk?si=PzJg2wzKOxJplWMq",
+                "title": "Toward X",
+                "subtitle": "Taishou ki - 対象x"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 4,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 7,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 10,
+                "opacity": 0.65,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 14,
+                "opacity": 0.75,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            }
+        ]
+    }
+}

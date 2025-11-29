@@ -1,0 +1,82 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/kaisou/chpt8/",
+        "traductionsFolderName": "shinzou/kaisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_8.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "廻想録",
+            "romajiTitle": "Kaisou Roku",
+            "esTitle": "Capítulo 8: Reminiscencias ***",
+            "videoLink": "https://www.youtube.com/watch?v=d3jvkB_0gVY"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "nextChapterLink": "/shinzou/kaisouRoku/chapter-9/",
+        "previousChapterLink": "/shinzou/kaisouRoku/chapter-7/",
+        "commentsSection": {
+            "section": "shinzou/kaisou/chpt8",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/d3jvkB_0gVY?si=iPuFgto8gtp5u8c6",
+                "title": "If",
+                "subtitle": "イフ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.75,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 32,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.75,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 12,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 17,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 23,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 32,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            }
+        ]
+    }
+}

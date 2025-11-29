@@ -1,0 +1,87 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/shinshou/chpt2/",
+        "traductionsFolderName": "shinzou/shinshou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_2.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "心象録",
+            "romajiTitle": "Shinshou Roku",
+            "esTitle": "Capítulo 2: Imágenes mentales β",
+            "videoLink": "https://www.youtube.com/watch?v=cHcqI40JpXg"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "nextChapterLink": "/shinzou/shinshouRoku/chapter-3/",
+        "previousChapterLink": "/shinzou/shinshouRoku/chapter-1/",
+        "commentsSection": {
+            "section": "shinzou/shinshou/chpt2",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/cHcqI40JpXg?si=M4YnGKNm5pKDo4mg",
+                "title": "Luz Lunar del medio día",
+                "subtitle": "Mahiru no Tsuki Akari - 真昼の月明かり"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.85,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 14,
+                "opacity": 0.85,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 21,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 2,
+                "opacity": 0.85,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 6,
+                "opacity": 0.85,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 10,
+                "opacity": 0.8,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 12,
+                "opacity": 0.75,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 15,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.75,
+                "imageSrc": "6"
+            }
+        ]
+    }
+}

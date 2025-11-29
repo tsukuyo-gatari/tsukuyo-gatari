@@ -1,0 +1,205 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/tsuisou/chpt2/",
+        "traductionsFolderName": "shinzou/tsuisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_2.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "追想録",
+            "romajiTitle": "Tsuisou Roku",
+            "esTitle": "Capítulo 2: Las buenas nuevas",
+            "videoLink": "https://www.youtube.com/watch?v=ndVeUn97Nh0"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon2"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon2"
+        },
+        "nextChapterLink": "/shinzou/tsuisouRoku/chapter-3/",
+        "previousChapterLink": "/shinzou/tsuisouRoku/chapter-1/",
+        "commentsSection": {
+            "section": "shinzou/tsuisou/chpt2",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/ndVeUn97Nh0?si=7KcWHGkmiJlkJ4Pf",
+                "title": "Reminiscencias",
+                "subtitle": "Kaisou - 廻想"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 29,
+                "opacity": 0.75,
+                "imageSrc": "17"
+            },
+            {
+                "breakpoint": 39,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.75,
+                "imageSrc": "18"
+            },
+            {
+                "breakpoint": 75,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 125,
+                "opacity": 0.75,
+                "imageSrc": "19"
+            },
+            {
+                "breakpoint": 140,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 162,
+                "opacity": 0.75,
+                "imageSrc": "title2"
+            },
+            {
+                "breakpoint": 200,
+                "opacity": 0.75,
+                "imageSrc": "5"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 4,
+                "opacity": 0.7,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 8,
+                "opacity": 0.65,
+                "imageSrc": "21"
+            },
+            {
+                "breakpoint": 12,
+                "opacity": 0.65,
+                "imageSrc": "14",
+                "position": "left"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "22"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.75,
+                "imageSrc": "17"
+            },
+            {
+                "breakpoint": 35,
+                "opacity": 0.75,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 44,
+                "opacity": 0.75,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.75,
+                "imageSrc": "18",
+                "position": "left"
+            },
+            {
+                "breakpoint": 60,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 65,
+                "opacity": 0.8,
+                "imageSrc": "20"
+            },
+            {
+                "breakpoint": 75,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 90,
+                "opacity": 0.75,
+                "imageSrc": "19"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.75,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 115,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 125,
+                "opacity": 0.75,
+                "imageSrc": "8"
+            },
+            {
+                "breakpoint": 130,
+                "opacity": 0.8,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 135,
+                "opacity": 0.6,
+                "imageSrc": "16"
+            },
+            {
+                "breakpoint": 147,
+                "opacity": 0.75,
+                "imageSrc": "title2"
+            },
+            {
+                "breakpoint": 160,
+                "opacity": 0.8,
+                "imageSrc": "15"
+            },
+            {
+                "breakpoint": 165,
+                "opacity": 0.7,
+                "imageSrc": "10",
+                "position": "left"
+            },
+            {
+                "breakpoint": 174,
+                "opacity": 0.6,
+                "imageSrc": "11"
+            },
+            {
+                "breakpoint": 200,
+                "opacity": 0.75,
+                "imageSrc": "5"
+            }
+        ]
+    }
+}

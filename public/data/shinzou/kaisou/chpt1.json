@@ -1,0 +1,92 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/kaisou/chpt1/",
+        "traductionsFolderName": "shinzou/kaisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_1.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "廻想録",
+            "romajiTitle": "Kaisou Roku",
+            "esTitle": "Capítulo 1: Reminiscencias I",
+            "videoLink": "https://www.youtube.com/watch?v=cHcqI40JpXg"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "nextChapterLink": "/shinzou/kaisouRoku/chapter-2/",
+        "previousChapterLink": "/shinzou/tsuisouRoku/chapter-5/",
+        "commentsSection": {
+            "section": "shinzou/kaisou/chpt1",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/cHcqI40JpXg?si=M4YnGKNm5pKDo4mg",
+                "title": "Luz Lunar del medio día",
+                "subtitle": "Mahiru no Tsuki Akari - 真昼の月明かり"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/Csp715c4kSU?si=imP36yLWmKiAPevp",
+                "title": "Blue",
+                "subtitle": "Yoruni ai - 夜に藍"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/X9G5154u884?si=8t_c8WcJ-sLfKorD",
+                "title": "Ruri",
+                "subtitle": "Ruri - るり"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.5,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 14,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.6,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 4,
+                "opacity": 0.5,
+                "imageSrc": "8"
+            },
+            {
+                "breakpoint": 10,
+                "opacity": 0.6,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 14,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 16,
+                "opacity": 0.6,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.6,
+                "imageSrc": "6"
+            }
+        ]
+    }
+}

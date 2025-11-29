@@ -1,0 +1,87 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/tsuisou/chpt0/",
+        "traductionsFolderName": "shinzou/tsuisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_0.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "追想録",
+            "romajiTitle": "Tsuisou Roku",
+            "esTitle": "Prólogo: Yuma",
+            "videoLink": "https://www.youtube.com/watch?v=HKsSGYCRGFk"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon2"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon2"
+        },
+        "nextChapterLink": "/shinzou/tsuisouRoku/chapter-1/",
+        "previousChapterLink": "/shinzou/shinshouRoku/chapter-15/",
+        "commentsSection": {
+            "section": "shinzou/tsuisou/chpt0",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/HKsSGYCRGFk?si=tqFZZ-KN1j7g6bOj",
+                "title": "Razón de existir",
+                "subtitle": "Ikiru Yosuga - 生きるよすが"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 15,
+                "opacity": 0.75,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.75,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 8,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 11,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 15,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 18,
+                "opacity": 0.65,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 22,
+                "opacity": 0.65,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.65,
+                "imageSrc": "1"
+            }
+        ]
+    }
+}

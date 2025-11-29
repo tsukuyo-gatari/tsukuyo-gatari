@@ -1,0 +1,137 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "sorekami/summary/",
+        "traductionsFolderName": "sorekami/"
+    },
+    "summaryData": {
+        "menuOptionsData": [
+            {
+                "to": "chpt1",
+                "text": "Capítulo 1: Más hermoso que la muerte / Corazón ardiente"
+            },
+            {
+                "to": "chpt2",
+                "text": "Capítulo 2: Narrative / Glorioso otoño"
+            },
+            {
+                "to": "chpt3",
+                "text": "Capítulo 3: Detonante / Lapislázuli del amanecer"
+            },
+            {
+                "to": "chpt4",
+                "text": "Capítulo 4: Una luz de esperanza / Dedidad de la muerte"
+            },
+            {
+                "to": "chpt5",
+                "text": "Capítulo 5: Premonición / Determinación"
+            },
+            {
+                "to": "chpt6",
+                "text": "Capítulo final: La dura realidad / Efímero"
+            },
+            {
+                "to": "interview",
+                "text": "Entrevista autor"
+            },
+            {
+                "to": "review",
+                "text": "Reseña"
+            },
+            {
+                "to": "comentarios",
+                "text": "Comentarios"
+            }
+        ],
+        "novelTitleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "engTitle": "We call it the deity",
+            "jpTitle": "それを僕らは神様と呼ぶ",
+            "romajiTitle": "Sore wo bokura wa kami sama to yobu",
+            "esTitle": "Eso es a lo que llamamos una deidad",
+            "videoLink": "https://www.youtube.com/watch?v=-qE9d3r1jIE"
+        },
+        "summaryFilePath": "sorekami_summary.txt",
+        "traductionDetailsFilePath": "sorekami_traduction_details.txt",
+        "teaserVideoLink": "https://www.youtube.com/embed/4aulzXoY6ME?si=_oS7JIWzrimsY-qe",
+        "chapterSections": [
+            {
+                "summaryFilePath": "sorekami_chpts_summary.txt",
+                "chaptersImages": [
+                    "1",
+                    "1a",
+                    "2a",
+                    "2",
+                    "3a",
+                    "3",
+                    "4a",
+                    "4",
+                    "5a",
+                    "5",
+                    "6",
+                    "7"
+                ],
+                "chaptersVideos": [
+                    "https://www.youtube.com/watch?v=7RkQ8X6P_3k",
+                    "https://www.youtube.com/watch?v=vjbTpBPGvBw",
+                    "https://www.youtube.com/watch?v=Yyqw-BHRmfw",
+                    "https://www.youtube.com/watch?v=vrEG95vkeMs&pp=0gcJCQMKAYcqIYzv",
+                    "https://www.youtube.com/watch?v=l9DGrug2n58",
+                    "https://www.youtube.com/watch?v=meh8utrAqHQ",
+                    "https://www.youtube.com/watch?v=7RkQ8X6P_3k",
+                    "https://www.youtube.com/watch?v=meh8utrAqHQ",
+                    "https://www.youtube.com/watch?v=vrEG95vkeMs&pp=0gcJCQMKAYcqIYzv",
+                    "https://www.youtube.com/watch?v=-qE9d3r1jIE",
+                    "https://www.youtube.com/watch?v=l9DGrug2n58",
+                    "https://www.youtube.com/watch?v=eSpqMUOvRkw"
+                ],
+                "novelTitle": "We call it the deity それを僕らは神様と呼ぶ",
+                "romajiTitle": "We call it the deity ",
+                "jpTitle": "それを僕らは神様と呼ぶ",
+                "esTitle": "Eso es a lo que llamamos una deidad",
+                "sectionId": "sorekami",
+                "chaptersLinks": [
+                    "chapter-1",
+                    "chapter-1-04",
+                    "chapter-2-307",
+                    "chapter-2",
+                    "chapter-3-04",
+                    "chapter-3",
+                    "chapter-4-05",
+                    "chapter-4",
+                    "chapter-5-01",
+                    "chapter-5",
+                    "chapter-6",
+                    "chapter-7"
+                ],
+                "subsectionsLinks": [
+                    "chpt1",
+                    "",
+                    "chpt2",
+                    "",
+                    "chpt3",
+                    "",
+                    "chpt4",
+                    "",
+                    "chpt5",
+                    "",
+                    "chpt6",
+                    ""
+                ]
+            }
+        ],
+        "interview": {
+            "interviewPath": "sorekami_interview.txt",
+            "backgroundImage": "sorekami/interview_bg"
+        },
+        "review": {
+            "reviewPath": "sorekami_review.txt",
+            "backgroundImage": "sorekami/review_bg"
+        },
+        "commentSection": {
+            "section": "sorekami",
+            "includeSubsections": true,
+            "commentsBG": "sorekami/comment_bg"
+        }
+    }
+}

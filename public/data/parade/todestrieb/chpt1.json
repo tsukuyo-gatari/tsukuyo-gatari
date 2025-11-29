@@ -1,0 +1,55 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/todestrieb/chpt1/",
+        "traductionsFolderName": "parade/todestrieb/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_1.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "トーデス・トリープ",
+            "romajiTitle": "Todestrieb",
+            "esTitle": "Capítulo 1: La forma correcta de vivir",
+            "videoLink": "https://www.youtube.com/watch?v=6gR3oJj-jaU"
+        },
+        "nextChapterLink": "/parade/todestrieb/chapter-2/",
+        "previousChapterLink": "/parade/kesera/chapter-6/",
+        "listChaptersLink": "/parade/",
+        "commentsSection": {
+            "section": "parade/todestrieb/chpt1",
+            "commentsBG": "parade/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/6gR3oJj-jaU?si=1u3frgim_6ZrbEQf",
+                "title": "Todestrieb",
+                "subtitle": "トーデス・トリープ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            }
+        ]
+    }
+}

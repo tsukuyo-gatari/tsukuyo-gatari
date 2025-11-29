@@ -1,0 +1,54 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "ningen/chpt4/",
+        "traductionsFolderName": "ningen/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_4.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "薄っぺら",
+            "romajiTitle": "Usuppera",
+            "esTitle": "Capítulo 4: Superficial",
+            "videoLink": "https://www.youtube.com/watch?v=0qY9rsBAKPk"
+        },
+        "previousChapterLink": "/ningen/chapter-3",
+        "listChaptersLink": "/ningen/",
+        "commentsSection": {
+            "section": "ningen/chapters/chpt4",
+            "commentsBG": "ningen/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/0qY9rsBAKPk?si=77wqCLtgDyCgukOq",
+                "title": "Humanly",
+                "subtitle": "Ningen Rashii - 人間らしい"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/G69S4nkoFgk?si=PzJg2wzKOxJplWMq",
+                "title": "Toward X",
+                "subtitle": "Taishou ki - 対象x"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            }
+        ]
+    }
+}

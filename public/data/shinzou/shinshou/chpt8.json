@@ -1,0 +1,160 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/shinshou/chpt8/",
+        "traductionsFolderName": "shinzou/shinshou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_8.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "心象録",
+            "romajiTitle": "Shinshou Roku",
+            "esTitle": "Capítulo 8: Imágenes mentales ε",
+            "videoLink": "https://www.youtube.com/watch?v=bLxBGhzqGoQ"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "nextChapterLink": "/shinzou/shinshouRoku/chapter-9/",
+        "previousChapterLink": "/shinzou/shinshouRoku/chapter-7/",
+        "commentsSection": {
+            "section": "shinzou/shinshou/chpt8",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/bLxBGhzqGoQ?si=FKOsNfDPFB_Yga9P",
+                "title": "Desde un nuevo mundo",
+                "subtitle": "新世界から"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.65,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 57,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 66,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 80,
+                "opacity": 0.7,
+                "imageSrc": "8"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 2,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 6,
+                "opacity": 0.75,
+                "imageSrc": "14",
+                "position": "left"
+            },
+            {
+                "breakpoint": 12,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 19,
+                "opacity": 0.65,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 36,
+                "opacity": 0.65,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.7,
+                "imageSrc": "10"
+            },
+            {
+                "breakpoint": 42,
+                "opacity": 0.7,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "11",
+                "position": "right"
+            },
+            {
+                "breakpoint": 52,
+                "opacity": 0.7,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 54,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 62,
+                "opacity": 0.7,
+                "imageSrc": "15",
+                "position": "left"
+            },
+            {
+                "breakpoint": 66,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 73,
+                "opacity": 0.7,
+                "imageSrc": "title"
+            },
+            {
+                "breakpoint": 80,
+                "opacity": 0.7,
+                "imageSrc": "8"
+            }
+        ]
+    }
+}

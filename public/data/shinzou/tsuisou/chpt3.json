@@ -1,0 +1,175 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/tsuisou/chpt3/",
+        "traductionsFolderName": "shinzou/tsuisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_3.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "追想録",
+            "romajiTitle": "Tsuisou Roku",
+            "esTitle": "Capítulo 3: El arte",
+            "videoLink": "https://www.youtube.com/watch?v=1hdtk9RZhHY"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon2"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon2"
+        },
+        "nextChapterLink": "/shinzou/tsuisouRoku/chapter-4/",
+        "previousChapterLink": "/shinzou/tsuisouRoku/chapter-2/",
+        "commentsSection": {
+            "section": "shinzou/tsuisou/chpt3",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/1hdtk9RZhHY?si=LBVuzMhxpMw5hi1H",
+                "title": "Yodaka",
+                "subtitle": "Nightjar - ヨダカ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.75,
+                "imageSrc": "1",
+                "position": "right"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 26,
+                "opacity": 0.75,
+                "imageSrc": "3",
+                "position": "right"
+            },
+            {
+                "breakpoint": 35,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 45,
+                "opacity": 0.75,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 55,
+                "opacity": 0.75,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 70,
+                "opacity": 0.75,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.75,
+                "imageSrc": "title"
+            },
+            {
+                "breakpoint": 200,
+                "opacity": 0.8,
+                "imageSrc": "8"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 3,
+                "opacity": 0.75,
+                "imageSrc": "1",
+                "position": "right"
+            },
+            {
+                "breakpoint": 10,
+                "opacity": 0.75,
+                "imageSrc": "17"
+            },
+            {
+                "breakpoint": 16,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.75,
+                "imageSrc": "18"
+            },
+            {
+                "breakpoint": 31,
+                "opacity": 0.75,
+                "imageSrc": "19"
+            },
+            {
+                "breakpoint": 35,
+                "opacity": 0.75,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.75,
+                "imageSrc": "20"
+            },
+            {
+                "breakpoint": 45,
+                "opacity": 0.75,
+                "imageSrc": "10"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.75,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 55,
+                "opacity": 0.75,
+                "imageSrc": "11"
+            },
+            {
+                "breakpoint": 70,
+                "opacity": 0.75,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 80,
+                "opacity": 0.75,
+                "imageSrc": "title"
+            },
+            {
+                "breakpoint": 91,
+                "opacity": 0.75,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.75,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 110,
+                "opacity": 0.8,
+                "imageSrc": "15"
+            },
+            {
+                "breakpoint": 120,
+                "opacity": 0.75,
+                "imageSrc": "14"
+            },
+            {
+                "breakpoint": 200,
+                "opacity": 0.75,
+                "imageSrc": "16"
+            }
+        ]
+    }
+}

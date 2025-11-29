@@ -1,0 +1,100 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "sorekami/chpt3a/",
+        "traductionsFolderName": "sorekami/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_3-0.4.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "夜明けのラズリ",
+            "romajiTitle": "Yoake no Lazuli",
+            "esTitle": "Capítulo 3-0.4: Lapislázuli del amanecer",
+            "videoLink": "https://www.youtube.com/watch?v=l9DGrug2n58"
+        },
+        "nextChapterLink": "/sorekami/chapter-3",
+        "previousChapterLink": "/sorekami/chapter-2",
+        "listChaptersLink": "/sorekami/",
+        "commentsSection": {
+            "section": "sorekami/chapters/chpt3-04",
+            "commentsBG": "sorekami/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/l9DGrug2n58?si=y15RvO6gwcK9UBgC",
+                "title": "Lapislázuli del amanecer",
+                "subtitle": "Yoake no Lazuli - 夜明けのラズリ"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/X9G5154u884?si=8t_c8WcJ-sLfKorD",
+                "title": "Ruri",
+                "subtitle": "Ruri - るり"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.65,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 22,
+                "opacity": 0.8,
+                "imageSrc": "title"
+            },
+            {
+                "breakpoint": 35,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 250,
+                "opacity": 0.5,
+                "imageSrc": "3"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.65,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 22,
+                "opacity": 0.8,
+                "imageSrc": "title"
+            },
+            {
+                "breakpoint": 28,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 35,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 43,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 53,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 70,
+                "opacity": 0.5,
+                "imageSrc": "3"
+            }
+        ]
+    }
+}

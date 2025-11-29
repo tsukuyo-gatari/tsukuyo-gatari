@@ -1,0 +1,153 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "parade/summary/",
+        "traductionsFolderName": "parade/"
+    },
+    "summaryData": {
+        "menuOptionsData": [
+            {
+                "to": "parade",
+                "text": "Parte 1: Suicide Parade"
+            },
+            {
+                "to": "kesera",
+                "text": "Parte 2: Kesera Rhythm"
+            },
+            {
+                "to": "todestrieb",
+                "text": "Parte 3: Todestrieb"
+            },
+            {
+                "to": "review",
+                "text": "Reseña"
+            },
+            {
+                "to": "comentarios",
+                "text": "Comentarios"
+            }
+        ],
+        "novelTitleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "engTitle": "Suicide Parade",
+            "jpTitle": "スーサイドパレヱド",
+            "romajiTitle": "",
+            "esTitle": "",
+            "videoLink": "https://www.youtube.com/watch?v=cNvsug-S38Y"
+        },
+        "summaryFilePath": "parade_summary.txt",
+        "traductionDetailsFilePath": "parade_traduction_details.txt",
+        "chapterSections": [
+            {
+                "summaryFilePath": "parade/parade_chpts_summary.txt",
+                "chaptersImages": [
+                    "parade/1",
+                    "parade/2",
+                    "parade/3",
+                    "parade/4",
+                    "parade/5",
+                    "parade/6",
+                    "parade/7",
+                    "parade/8",
+                    "parade/9"
+                ],
+                "chaptersVideos": [
+                    "https://www.youtube.com/watch?v=7awIdGqyr40",
+                    "https://www.youtube.com/watch?v=7awIdGqyr40",
+                    "https://www.youtube.com/watch?v=7awIdGqyr40",
+                    "https://www.youtube.com/watch?v=7awIdGqyr40",
+                    "https://www.youtube.com/watch?v=7awIdGqyr40",
+                    "https://www.youtube.com/watch?v=7awIdGqyr40",
+                    "https://www.youtube.com/watch?v=7awIdGqyr40",
+                    "https://www.youtube.com/watch?v=7awIdGqyr40",
+                    "https://www.youtube.com/watch?v=7awIdGqyr40"
+                ],
+                "novelTitle": "Suicide Parade スーサイドパレヱド",
+                "romajiTitle": "Suicide Parade",
+                "jpTitle": "スーサイドパレヱド",
+                "esTitle": "",
+                "sectionId": "parade",
+                "chaptersLinks": [
+                    "parade/chapter-1/",
+                    "parade/chapter-2/",
+                    "parade/chapter-3/",
+                    "parade/chapter-4/",
+                    "parade/chapter-5/",
+                    "parade/chapter-6/",
+                    "parade/chapter-7/",
+                    "parade/chapter-8/",
+                    "parade/chapter-9/"
+                ]
+            },
+            {
+                "summaryFilePath": "kesera/kesera_chpts_summary.txt",
+                "chaptersImages": [
+                    "kesera/1",
+                    "kesera/2",
+                    "kesera/3",
+                    "kesera/4",
+                    "kesera/5",
+                    "kesera/6"
+                ],
+                "chaptersVideos": [
+                    "https://www.youtube.com/watch?v=cNvsug-S38Y",
+                    "https://www.youtube.com/watch?v=cNvsug-S38Y",
+                    "https://www.youtube.com/watch?v=cNvsug-S38Y",
+                    "https://www.youtube.com/watch?v=cNvsug-S38Y",
+                    "https://www.youtube.com/watch?v=cNvsug-S38Y",
+                    "https://www.youtube.com/watch?v=cNvsug-S38Y"
+                ],
+                "novelTitle": "Kesera Rhythm ケセラリズム",
+                "romajiTitle": "Kesera Rhythm",
+                "jpTitle": "ケセラリズム",
+                "esTitle": "",
+                "sectionId": "kesera",
+                "chaptersLinks": [
+                    "kesera/chapter-1/",
+                    "kesera/chapter-2/",
+                    "kesera/chapter-3/",
+                    "kesera/chapter-4/",
+                    "kesera/chapter-5/",
+                    "kesera/chapter-6/"
+                ]
+            },
+            {
+                "summaryFilePath": "todestrieb/todestrieb_chpts_summary.txt",
+                "chaptersImages": [
+                    "todestrieb/1",
+                    "todestrieb/2",
+                    "todestrieb/3",
+                    "todestrieb/4"
+                ],
+                "chaptersVideos": [
+                    "https://www.youtube.com/watch?v=6gR3oJj-jaU",
+                    "https://www.youtube.com/watch?v=6gR3oJj-jaU",
+                    "https://www.youtube.com/watch?v=6gR3oJj-jaU",
+                    "https://www.youtube.com/watch?v=6gR3oJj-jaU",
+                    "https://www.youtube.com/watch?v=6gR3oJj-jaU",
+                    "https://www.youtube.com/watch?v=6gR3oJj-jaU"
+                ],
+                "novelTitle": "Todestrieb トーデス・トリープ",
+                "romajiTitle": "Todestrieb",
+                "jpTitle": "トーデス・トリープ",
+                "esTitle": "",
+                "sectionId": "todestrieb",
+                "chaptersLinks": [
+                    "todestrieb/chapter-1/",
+                    "todestrieb/chapter-2/",
+                    "todestrieb/chapter-3/",
+                    "todestrieb/chapter-4/"
+                ]
+            }
+        ],
+        "review": {
+            "reviewPath": "parade_review.txt",
+            "backgroundImage": "parade/review_bg"
+        },
+        "commentSection": {
+            "section": "parade",
+            "includeSubsections": true,
+            "commentsBG": "parade/comment_bg"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/kaisou/chpt4/",
+        "traductionsFolderName": "shinzou/kaisou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_4.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "廻想録",
+            "romajiTitle": "Kaisou Roku",
+            "esTitle": "Capítulo 4: Ilusión y Fascinación",
+            "videoLink": "https://www.youtube.com/watch?v=1hdtk9RZhHY"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 2,
+            "moonImageSrc": "/moon3"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon3"
+        },
+        "nextChapterLink": "/shinzou/kaisouRoku/chapter-5/",
+        "previousChapterLink": "/shinzou/kaisouRoku/chapter-3/",
+        "commentsSection": {
+            "section": "shinzou/kaisou/chpt4",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/1hdtk9RZhHY?si=LBVuzMhxpMw5hi1H",
+                "title": "Yodaka",
+                "subtitle": "Nightjar - ヨダカ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 15,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 18,
+                "opacity": 0.75,
+                "imageSrc": "5",
+                "position": "left"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.75,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            }
+        ]
+    }
+}

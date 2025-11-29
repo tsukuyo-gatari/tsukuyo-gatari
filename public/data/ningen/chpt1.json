@@ -1,0 +1,69 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "ningen/chpt1/",
+        "traductionsFolderName": "ningen/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_1.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "人間らしい",
+            "romajiTitle": "Ningen rashii",
+            "esTitle": "Capítulo 1: Humanly",
+            "videoLink": "https://www.youtube.com/watch?v=0qY9rsBAKPk"
+        },
+        "nextChapterLink": "/ningen/chapter-2",
+        "listChaptersLink": "/ningen/",
+        "commentsSection": {
+            "section": "ningen/chapters/chpt1",
+            "commentsBG": "ningen/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/0qY9rsBAKPk?si=77wqCLtgDyCgukOq",
+                "title": "Humanly",
+                "subtitle": "Ningen Rashii - 人間らしい"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/G69S4nkoFgk?si=PzJg2wzKOxJplWMq",
+                "title": "Toward X",
+                "subtitle": "Taishou ki - 対象x"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 13,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 105,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 16,
+                "opacity": 0.7,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 105,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            }
+        ]
+    }
+}

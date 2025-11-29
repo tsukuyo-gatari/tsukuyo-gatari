@@ -1,0 +1,55 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "ningen/chpt2/",
+        "traductionsFolderName": "ningen/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_2.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "謬錯",
+            "romajiTitle": "Byousaku",
+            "esTitle": "Capítulo 2: Errores",
+            "videoLink": "https://www.youtube.com/watch?v=0qY9rsBAKPk"
+        },
+        "nextChapterLink": "/ningen/chapter-3",
+        "previousChapterLink": "/ningen/chapter-1",
+        "listChaptersLink": "/ningen/",
+        "commentsSection": {
+            "section": "ningen/chapters/chpt2",
+            "commentsBG": "ningen/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/0qY9rsBAKPk?si=77wqCLtgDyCgukOq",
+                "title": "Humanly",
+                "subtitle": "Ningen Rashii - 人間らしい"
+            },
+            {
+                "videoLink": "https://www.youtube.com/embed/G69S4nkoFgk?si=PzJg2wzKOxJplWMq",
+                "title": "Toward X",
+                "subtitle": "Taishou ki - 対象x"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 13,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 13,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            }
+        ]
+    }
+}

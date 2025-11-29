@@ -1,0 +1,256 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "sorekami/chpt2/",
+        "traductionsFolderName": "sorekami/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_2.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "ナラティブ",
+            "romajiTitle": "",
+            "esTitle": "Capítulo 2: Narrative",
+            "videoLink": "https://www.youtube.com/watch?v=vrEG95vkeMs&pp=0gcJCQMKAYcqIYzv"
+        },
+        "nextChapterLink": "/sorekami/chapter-3-04",
+        "previousChapterLink": "/sorekami/chapter-2-307",
+        "listChaptersLink": "/sorekami/",
+        "commentsSection": {
+            "section": "sorekami/chapters/chpt2",
+            "commentsBG": "sorekami/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/vrEG95vkeMs?si=a2YwUjtA7FgbV5DR",
+                "title": "Narrative",
+                "subtitle": "ナラティブ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 16,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 28,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 46,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 55,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 66,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 75,
+                "opacity": 0.7,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 85,
+                "opacity": 0.7,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.75,
+                "imageSrc": "8"
+            },
+            {
+                "breakpoint": 115,
+                "opacity": 0.7,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 125,
+                "opacity": 0.8,
+                "imageSrc": "10"
+            },
+            {
+                "breakpoint": 135,
+                "opacity": 0.8,
+                "imageSrc": "11"
+            },
+            {
+                "breakpoint": 145,
+                "opacity": 0.7,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 160,
+                "opacity": 0.7,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 175,
+                "opacity": 0.7,
+                "imageSrc": "14"
+            },
+            {
+                "breakpoint": 190,
+                "opacity": 0.7,
+                "imageSrc": "15"
+            },
+            {
+                "breakpoint": 250,
+                "opacity": 0.8,
+                "imageSrc": "title2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 17,
+                "opacity": 0.7,
+                "imageSrc": "15"
+            },
+            {
+                "breakpoint": 23,
+                "opacity": 0.7,
+                "imageSrc": "16"
+            },
+            {
+                "breakpoint": 31,
+                "opacity": 0.7,
+                "imageSrc": "17"
+            },
+            {
+                "breakpoint": 40,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 51,
+                "opacity": 0.8,
+                "imageSrc": "18"
+            },
+            {
+                "breakpoint": 58,
+                "opacity": 0.8,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 65,
+                "opacity": 0.7,
+                "imageSrc": "19"
+            },
+            {
+                "breakpoint": 70,
+                "opacity": 0.7,
+                "imageSrc": "20"
+            },
+            {
+                "breakpoint": 75,
+                "opacity": 0.7,
+                "imageSrc": "21"
+            },
+            {
+                "breakpoint": 85,
+                "opacity": 0.8,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 90,
+                "opacity": 0.7,
+                "imageSrc": "22"
+            },
+            {
+                "breakpoint": 96,
+                "opacity": 0.7,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 105,
+                "opacity": 0.7,
+                "imageSrc": "23"
+            },
+            {
+                "breakpoint": 110,
+                "opacity": 0.7,
+                "imageSrc": "24"
+            },
+            {
+                "breakpoint": 115,
+                "opacity": 0.7,
+                "imageSrc": "25"
+            },
+            {
+                "breakpoint": 120,
+                "opacity": 0.7,
+                "imageSrc": "26",
+                "position": "right"
+            },
+            {
+                "breakpoint": 127,
+                "opacity": 0.8,
+                "imageSrc": "27"
+            },
+            {
+                "breakpoint": 135,
+                "opacity": 0.8,
+                "imageSrc": "28"
+            },
+            {
+                "breakpoint": 142,
+                "opacity": 0.7,
+                "imageSrc": "12"
+            },
+            {
+                "breakpoint": 145,
+                "opacity": 0.7,
+                "imageSrc": "29"
+            },
+            {
+                "breakpoint": 155,
+                "opacity": 0.7,
+                "imageSrc": "13"
+            },
+            {
+                "breakpoint": 166,
+                "opacity": 0.7,
+                "imageSrc": "34"
+            },
+            {
+                "breakpoint": 173,
+                "opacity": 0.7,
+                "imageSrc": "30"
+            },
+            {
+                "breakpoint": 181,
+                "opacity": 0.7,
+                "imageSrc": "33"
+            },
+            {
+                "breakpoint": 190,
+                "opacity": 0.7,
+                "imageSrc": "35"
+            },
+            {
+                "breakpoint": 200,
+                "opacity": 0.7,
+                "imageSrc": "32"
+            },
+            {
+                "breakpoint": 250,
+                "opacity": 0.8,
+                "imageSrc": "31"
+            }
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "ningen/summary/",
+        "traductionsFolderName": "ningen/"
+    },
+    "summaryData": {
+        "menuOptionsData": [
+            {
+                "to": "ningen",
+                "text": "Capítulos"
+            },
+            {
+                "to": "comentarios",
+                "text": "Comentarios"
+            }
+        ],
+        "novelTitleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "engTitle": "Humanly",
+            "jpTitle": "人間らしい",
+            "romajiTitle": "Ningen rashii",
+            "esTitle": "Humanidad",
+            "videoLink": "https://www.youtube.com/watch?v=0qY9rsBAKPk"
+        },
+        "summaryFilePath": "ningen_summary.txt",
+        "traductionDetailsFilePath": "ningen_traduction_details.txt",
+        "chapterSections": [
+            {
+                "summaryFilePath": "ningen_chpts_summary.txt",
+                "chaptersImages": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "chaptersVideos": [
+                    "https://www.youtube.com/watch?v=0qY9rsBAKPk",
+                    "https://www.youtube.com/watch?v=0qY9rsBAKPk",
+                    "https://www.youtube.com/watch?v=0qY9rsBAKPk",
+                    "https://www.youtube.com/watch?v=0qY9rsBAKPk"
+                ],
+                "novelTitle": "Humanly 人間らしい",
+                "romajiTitle": "Humanly",
+                "jpTitle": "人間らしい",
+                "esTitle": "Humanidad",
+                "sectionId": "ningen",
+                "chaptersLinks": [
+                    "chapter-1",
+                    "chapter-2",
+                    "chapter-3",
+                    "chapter-4"
+                ],
+                "subsectionsLinks": [
+                    "chpt1",
+                    "chpt2",
+                    "chpt3",
+                    "chpt4"
+                ]
+            }
+        ],
+        "commentSection": {
+            "section": "ningen",
+            "includeSubsections": true,
+            "commentsBG": "ningen/comment_bg",
+            "bgPosition": "left"
+        }
+    }
+}

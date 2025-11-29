@@ -1,0 +1,78 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/shinshou/chpt13/",
+        "traductionsFolderName": "shinzou/shinshou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_13.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "心象録",
+            "romajiTitle": "Shinshou Roku",
+            "esTitle": "Capítulo 13: Blue",
+            "videoLink": "https://www.youtube.com/watch?v=Csp715c4kSU"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "nextChapterLink": "/shinzou/shinshouRoku/chapter-14/",
+        "previousChapterLink": "/shinzou/shinshouRoku/chapter-12/",
+        "commentsSection": {
+            "section": "shinzou/shinshou/chpt13",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/Csp715c4kSU?si=imP36yLWmKiAPevp",
+                "title": "Blue",
+                "subtitle": "Yoruni ai - 夜に藍"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.65,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 35,
+                "opacity": 0.65,
+                "imageSrc": "title"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 5,
+                "opacity": 0.65,
+                "imageSrc": "1",
+                "position": "right"
+            },
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 13,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 100,
+                "opacity": 0.65,
+                "imageSrc": "title"
+            }
+        ]
+    }
+}

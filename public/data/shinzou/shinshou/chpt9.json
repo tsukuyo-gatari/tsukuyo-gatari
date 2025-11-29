@@ -1,0 +1,72 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/shinshou/chpt9/",
+        "traductionsFolderName": "shinzou/shinshou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_9.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "心象録",
+            "romajiTitle": "Shinshou Roku",
+            "esTitle": "Capítulo 9: Imágenes mentales ζ",
+            "videoLink": "https://www.youtube.com/watch?v=ndVeUn97Nh0"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "nextChapterLink": "/shinzou/shinshouRoku/chapter-10/",
+        "previousChapterLink": "/shinzou/shinshouRoku/chapter-8/",
+        "commentsSection": {
+            "section": "shinzou/shinshou/chpt9",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/ndVeUn97Nh0?si=7KcWHGkmiJlkJ4Pf",
+                "title": "Reminiscencias",
+                "subtitle": "Kaisou - 廻想"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 30,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 10,
+                "opacity": 0.7,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 14,
+                "opacity": 0.7,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 20,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.75,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 30,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            }
+        ]
+    }
+}

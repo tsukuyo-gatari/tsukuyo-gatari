@@ -1,0 +1,97 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/shinshou/chpt10/",
+        "traductionsFolderName": "shinzou/shinshou/"
+    },
+    "chapterData": {
+        "chapterFile": "chpt_10.txt",
+        "titleData": {
+            "smallTitleImg": "title2",
+            "largeTitleImg": "title1",
+            "jpTitle": "心象録",
+            "romajiTitle": "Shinshou Roku",
+            "esTitle": "Capítulo 10: Dawn",
+            "videoLink": "https://www.youtube.com/watch?v=Y_j7gHOgYY4"
+        },
+        "tsukiMessage1Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "tsukiMessage2Data": {
+            "breakpoint": 1,
+            "moonImageSrc": "/moon1"
+        },
+        "nextChapterLink": "/shinzou/shinshouRoku/chapter-11/",
+        "previousChapterLink": "/shinzou/shinshouRoku/chapter-9/",
+        "commentsSection": {
+            "section": "shinzou/shinshou/chpt10",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/Y_j7gHOgYY4?si=-_nrZYCIYbilqG6x",
+                "title": "Si no existiera tal vida",
+                "subtitle": "Konna Inochi ga Nakereba - こんな命がなければ"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.75,
+                "imageSrc": "8"
+            },
+            {
+                "breakpoint": 14,
+                "opacity": 0.77,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 3,
+                "opacity": 0.75,
+                "imageSrc": "9"
+            },
+            {
+                "breakpoint": 6,
+                "opacity": 0.77,
+                "imageSrc": "1"
+            },
+            {
+                "breakpoint": 10,
+                "opacity": 0.75,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 12,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 15,
+                "opacity": 0.75,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 18,
+                "opacity": 0.75,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 22,
+                "opacity": 0.75,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 25,
+                "opacity": 0.75,
+                "imageSrc": "7"
+            }
+        ]
+    }
+}

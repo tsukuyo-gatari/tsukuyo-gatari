@@ -1,0 +1,94 @@
+{
+    "resourceData": {
+        "bgImageFolderName": "shinzou/extra/extra2/",
+        "traductionsFolderName": "shinzou/extra/"
+    },
+    "chapterData": {
+        "chapterFile": "extra_2.txt",
+        "titleData": {
+            "smallTitleImg": "title",
+            "largeTitleImg": "title",
+            "jpTitle": "",
+            "romajiTitle": "Extra",
+            "esTitle": "En algún lugar también llamado el rincón de TETRA 或いはテトラの片隅で",
+            "videoLink": "https://www.youtube.com/watch?v=MlvBKnHhHSc"
+        },
+        "nextChapterLink": "/shinzou/extra/ookami/",
+        "previousChapterLink": "/shinzou/extra/veronica/",
+        "commentsSection": {
+            "section": "shinzou/extra/tetra",
+            "commentsBG": "shinzou/comment_bg"
+        },
+        "videoLinks": [
+            {
+                "videoLink": "https://www.youtube.com/embed/MlvBKnHhHSc?si=kC1ajNUXVc2RUElD",
+                "title": "En algún lugar también llamado el rincón de TETRA",
+                "subtitle": "Aruiwa TETRA no katasumi de - 或いはテトラの片隅で"
+            }
+        ],
+        "chapterLargeBreakpoints": [
+            {
+                "breakpoint": 14,
+                "opacity": 0.6,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 26,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 35,
+                "opacity": 0.75,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            }
+        ],
+        "chapterSmallBreakpoints": [
+            {
+                "breakpoint": 7,
+                "opacity": 0.6,
+                "imageSrc": "2"
+            },
+            {
+                "breakpoint": 14,
+                "opacity": 0.7,
+                "imageSrc": "3"
+            },
+            {
+                "breakpoint": 18,
+                "opacity": 0.8,
+                "imageSrc": "4"
+            },
+            {
+                "breakpoint": 21,
+                "opacity": 0.7,
+                "imageSrc": "5"
+            },
+            {
+                "breakpoint": 27,
+                "opacity": 0.8,
+                "imageSrc": "8"
+            },
+            {
+                "breakpoint": 35,
+                "opacity": 0.75,
+                "imageSrc": "6"
+            },
+            {
+                "breakpoint": 41,
+                "opacity": 0.75,
+                "imageSrc": "7"
+            },
+            {
+                "breakpoint": 50,
+                "opacity": 0.75,
+                "imageSrc": "1"
+            }
+        ]
+    }
+}
