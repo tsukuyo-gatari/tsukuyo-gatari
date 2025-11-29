@@ -19,6 +19,9 @@ const app = initializeApp(firebaseConfig);
 const db = getDatabase(app);
 const auth = getAuth(app);
 
+console.log("Initialized Firebase with config:");
+console.log(import.meta.env)
+
 onAuthStateChanged(auth, (user) => {
     if (!user) {
         signInAnonymously(auth);
